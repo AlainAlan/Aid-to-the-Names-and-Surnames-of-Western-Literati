@@ -1,0 +1,816 @@
+,名字,姓,名,中文名,汉名,漢名,洋名又名,汉名又名,无调姓,无调名,生年,卒年,族裔,备注,加权计数
+13,Brook Ziporyn,Ziporyn,Brook,任博克,任博克,任博克,0,0,Ziporyn, Brook,0.0,0.0,0,0,10
+14,Brook A. Ziporyn,Ziporyn,Brook A.,任博克,任博克,任博克,0,0,Ziporyn, Brook A.,0.0,0.0,0,0,10
+91,Judith Zeitlin,Zeitlin,Judith,蔡九迪,蔡九迪,蔡九迪,0,0,Zeitlin, Judith,0.0,0.0,0,0,10
+92,Judith T. Zeitlin,Zeitlin,Judith T.,蔡九迪,蔡九迪,蔡九迪,0,0,Zeitlin, Judith T.,0.0,0.0,0,0,10
+97,Dongsheng Zang,Zang,Dongsheng,臧东升,臧东升,臧東昇,0,0,Zang, Dongsheng,0.0,0.0,0,0,10
+98,Dongsheng Zang,Zang,Dongsheng,臧東升,臧东升,臧東升,0,0,Zang, Dongsheng,0.0,0.0,0,0,10
+119,Chün-fang Yü,Yü,Chün-fang,于君方,于君方,于君方,0,0,Yu, Chun-fang,0.0,0.0,0,0,10
+122,Anthony C. Yu,Yu,Anthony C.,余国藩,余国藩,餘國藩,0,0,Yu, Anthony C.,0.0,0.0,0,0,10
+123,Anthony C. Yu,Yu,Anthony C.,余國藩,余国藩,余國藩,0,0,Yu, Anthony C.,0.0,0.0,0,0,10
+125,Chun-fang Yu,Yu,Chun-fang,于君方,于君方,於君方,0,0,Yu, Chun-fang,0.0,0.0,0,0,10
+133,Siu Wah Yu,Yu,Siu Wah,余少华,余少华,餘少華,0,0,Yu, Siu Wah,0.0,0.0,0,0,10
+134,Siu Wah Yu,Yu,Siu Wah,余少華,余少华,余少華,0,0,Yu, Siu Wah,0.0,0.0,0,0,10
+143,Yoshiko Yoshimura,Yoshimura,Yoshiko,吉村敬子,吉村敬子,吉村敬子,0,0,Yoshimura, Yoshiko,0.0,0.0,0,0,10
+144,Yoshimura Yoshiko,Yoshiko,Yoshimura,吉村敬子,吉村敬子,吉村敬子,0,0,Yoshiko, Yoshimura,0.0,0.0,0,0,10
+153,Wai Lim Yip,Yip,Wai Lim,葉維廉,叶维廉,葉維廉,0,0,Yip, Wai Lim,0.0,0.0,0,0,10
+154,Wai-lin Yip,Yip,Wai-lin,叶维廉,叶维廉,葉維廉,0,0,Yip, Wai-lin,0.0,0.0,0,0,10
+160,Wai-lim Yik,Yik,Wai-lim,葉維廉,叶维廉,葉維廉,0,0,Yik, Wai-lim,0.0,0.0,0,0,10
+194,Xinzhong Yao,Yao,Xinzhong,姚新中,姚新中,姚新中,0,0,Yao, Xinzhong,0.0,0.0,0,0,10
+195,Xinzhong Yao,Yao,Xinzhong,姚新中,姚新中,姚新中,0,0,Yao,Xinzhong,1957.0,0.0,英国华裔,0,10
+198,C. K. Yang,Yang,C. K.,杨庆堃,杨庆堃,楊慶堃,0,0,Yang, C. K.,0.0,0.0,0,0,10
+199,C.K. Yang,Yang,C.K.,楊慶堃,杨庆堃,楊慶堃,0,0,Yang, C.K.,0.0,0.0,0,0,10
+202,Daniel Shih-p’eng Yang,Yang,Daniel Shih-p’eng,杨世彭,杨世彭,楊世彭,0,0,Yang, Daniel Shih-p’eng,0.0,0.0,0,0,10
+203,Daniel Shih-p'eng Yang,Yang,Daniel Shih-p'eng,楊世彭,杨世彭,楊世彭,0,0,Yang, Daniel Shih-p'eng,0.0,0.0,0,0,10
+214,Lien-sheng Yang,Yang,Lien-sheng,杨联陞,杨联升,楊聯陞,0,0,Yang, Lien-sheng,0.0,0.0,0,0,10
+215,Lien-sheng Yang,Yang,Lien-sheng,楊聯升,杨联升,楊聯升,0,0,Yang, Lien-sheng,0.0,0.0,0,0,10
+217,Mayfair Yang,Yang,Mayfair,杨美惠,杨美惠,楊美惠,0,0,Yang, Mayfair,0.0,0.0,0,0,10
+218,Mayfair Mei-hui Yang,Yang,Mayfair Mei-hui,楊美惠,杨美惠,楊美惠,0,0,Yang, Mayfair Mei-hui,0.0,0.0,0,0,10
+236,Margaret Mian Yan Yan,Yan,Margaret Mian Yan,严绵,严绵,嚴綿,0,0,Yan,Margaret Mian Yan,0.0,0.0,0,0,10
+237,Margaret Mian Yan Yan,Yan,Margaret Mian Yan,嚴綿,严绵,嚴綿,0,0,Yan, Margaret Mian Yan,0.0,0.0,0,0,10
+273,Yu Xie,Xie,Yu,谢宇,谢宇,謝宇,0,0,Xie, Yu,0.0,0.0,0,0,20
+292,Fusheng Wu,Wu,Fusheng,吴伏生,吴伏生,吳伏生,0,0,Wu, Fusheng,0.0,0.0,0,0,20
+293,Fu-sheng Wu,Wu,Fu-sheng,吴伏生,吴伏生,吳伏生,0,0,Wu,Fu-sheng,0.0,0.0,美国华裔,0,10
+317,Yuanli Wu,Wu,Yuanli,吳元黎,吴元黎,吳元黎,0,0,Wu, Yuanli,0.0,0.0,0,0,10
+318,Yuan-li Wu,Wu,Yuan-li,吴元黎,吴元黎,吳元黎,0,0,Wu, Yuan-li,0.0,0.0,0,0,10
+320,Arthur Wright,Wright,Arthur,芮沃寿,芮沃寿,芮沃壽,0,0,Wright, Arthur,0.0,0.0,0,0,20
+321,Arthur Frederick Wright,Wright,Arthur Frederick,芮沃寿,芮沃寿,芮沃壽,0,0,Wright,Arthur Frederick,1913.0,1976.0,0,0,10
+322,David C. Wright,Wright,David C.,赖大卫,赖大卫,賴大衛,0,0,Wright, David C.,0.0,0.0,0,0,10
+323,David Curtis Wright,Wright,David Curtis,賴大衛,赖大卫,賴大衛,0,0,Wright, David Curtis,0.0,0.0,0,0,10
+325,Mary C. Wright,Wright,Mary C.,芮玛丽,芮玛丽,芮瑪麗,0,0,Wright, Mary C.,0.0,0.0,0,0,10
+326,Mary Clabaugh Wright,Wright,Mary Clabaugh,芮瑪麗,芮玛丽,芮瑪麗,0,0,Wright, Mary Clabaugh,0.0,0.0,0,0,10
+369,John T. Wixted,Wixted,John T.,魏世德,魏世德,魏世德,0,0,Wixted, John T.,0.0,0.0,0,0,10
+370,John Timothy Wixted,Wixted,John Timothy,魏世德,魏世德,魏世德,0,0,Wixted, John Timothy,0.0,0.0,0,0,10
+381,Thomas A. Wilson,Wilson,Thomas A.,魏伟森,魏伟森,魏偉森,0,0,Wilson,Thomas A.,0.0,0.0,美国,0,10
+382,Thomas A. Wilson,Wilson,Thomas A.,魏偉森,魏伟森,魏偉森,0,0,Wilson, Thomas A.,0.0,0.0,0,0,10
+383,John E. Wills,Wills,John E.,衛思韓,卫思韩,衛思韓,0,0,Wills, John E.,0.0,0.0,0,0,10
+384,John E. Jr. Wills,Wills,John E. Jr.,卫思韩,卫思韩,衛思韓,0,0,Wills, John E. Jr.,0.0,0.0,0,0,10
+386,Crispin Williams,Williams,Crispin,魏克彬,魏克彬,魏克彬,0,0,Williams, Crispin,0.0,0.0,0,0,20
+387,Crispin Williams,Williams,Crispin,魏克彬,魏克彬,魏克彬,0,0,Williams,Crispin,0.0,0.0,美国,0,10
+393,Endymion Wilkinson,Wilkinson,Endymion,魏根深,魏根深,魏根深,0,0,Wilkinson, Endymion,0.0,0.0,0,0,20
+394,Endymion Wilkinson,Wilkinson,Endymion,魏根深,魏根深,魏根深,0,0,Wilkinson,Endymion,1941.0,0.0,英国,0,10
+395,Hellmut Wilhelm,Wilhelm,Hellmut,卫德明,卫德明,衛德明,0,0,Wilhelm, Hellmut,0.0,0.0,0,0,20
+396,Helmut Wilhelm,Wilhelm,Helmut,卫德明,卫德明,衛德明,0,0,Wilhelm,Helmut,1905.0,1990.0,德国,传教士,10
+399,Clarence M. Wilbur,Wilbur,Clarence M.,韦慕庭,韦慕庭,韋慕庭,0,0,Wilbur, Clarence M.,0.0,0.0,0,0,10
+400,Clarence Martin Wilbur,Wilbur,Clarence Martin,韋慕庭,韦慕庭,韋慕庭,0,0,Wilbur, Clarence Martin,0.0,0.0,0,0,10
+409,Philip Wickeri,Wickeri,Philip,魏克利,魏克利,魏克利,0,0,Wickeri, Philip,0.0,0.0,0,0,10
+410,Philip L. Wickeri,Wickeri,Philip L.,魏克利,魏克利,魏克利,0,0,Wickeri, Philip L.,0.0,0.0,0,0,10
+413,Martin K. Whyte,Whyte,Martin K.,怀默霆,怀默霆,懷默霆,0,0,Whyte, Martin K.,0.0,0.0,0,0,10
+414,Martin King Whyte,Whyte,Martin King,懷默霆,怀默霆,懷默霆,0,0,Whyte, Martin King,0.0,0.0,0,0,10
+416,Susan Whiting,Whiting,Susan,白素珊,白素珊,白素珊,0,0,Whiting, Susan,0.0,0.0,0,0,20
+428,Stephen H. West,West,Stephen H.,奚如谷,奚如谷,奚如谷,0,0,West, Stephen H.,0.0,0.0,0,0,10
+429,Stephen H. West,West,Stephen H.,奚如穀,奚如谷,奚如穀,0,0,West, Stephen H.,0.0,0.0,0,0,10
+445,Susan R. Weld,Weld,Susan R.,羅鳳鳴,罗凤鸣,羅鳳鳴,0,0,Weld, Susan R.,0.0,0.0,0,0,10
+446,Susan Roosevelt Weld,Weld,Susan Roosevelt,罗凤鸣,罗凤鸣,羅鳳鳴,0,0,Weld, Susan Roosevelt,0.0,0.0,0,0,10
+452,Oliver Weingarten,Weingarten,Oliver,韦礼文,韦礼文,韋禮文,0,0,Weingarten,Oliver,0.0,0.0,0,0,10
+453,Oliver Weingarten,Weingarten,Oliver,韋禮文,韦礼文,韋禮文,0,0,Weingarten, Oliver,0.0,0.0,0,0,10
+475,Burton Watson,Watson,Burton,华兹生,华兹生,華茲生,0,0,Watson, Burton,0.0,0.0,0,0,20
+476,Burton Watson,Watson,Burton,华兹生,华兹生,華茲生,0,0,Watson,Burton,0.0,0.0,0,0,12
+477,James Watson,Watson,James,华琛,华琛,華琛,0,屈顺夫,Watson, James,0.0,0.0,0,0,10
+478,James L. Watson,Watson,James L.,華琛,华琛,華琛,0, 屈順夫,Watson, James L.,0.0,0.0,0,0,10
+502,David Wang,Wang,David,王德威,王德威,王德威,0,0,Wang, David,0.0,0.0,0,0,10
+503,David Der-Wei Wang,Wang,David Der-Wei,王德威,王德威,王德威,0,0,Wang, David Der-Wei,0.0,0.0,0,0,10
+506,Edward Wang,Wang,Edward,王晴佳,王晴佳,王晴佳,0,0,Wang, Edward,0.0,0.0,0,0,10
+509,Fei-ling Wang,Wang,Fei-ling,王飞凌,王飞凌,王飛凌,0,0,Wang, Fei-ling,0.0,0.0,0,0,10
+510,Fei-ling Wang,Wang,Fei-ling,王飛淩,王飞凌,王飛淩,0,0,Wang, Fei-ling,0.0,0.0,0,0,10
+513,Gang Wang,Wang,Gang,王崗,王岗,王崗,0,0,Wang, Gang,0.0,0.0,0,0,10
+516,Gungwu Wang,Wang,Gungwu,王賡武,王赓武,王賡武,0,0,Wang, Gungwu,0.0,0.0,0,0,10
+517,Gung-wu Wang,Wang,Gung-wu,王賡武,王赓武,王賡武,0,0,Wang, Gung-wu,0.0,0.0,0,0,10
+525,Isabel Wang,Wang,Isabel,王豔君,王艳君,王豔君,0,0,Wang, Isabel,0.0,0.0,0,0,10
+531,Jin Wang,Wang,Jin,王瑾,王瑾,王瑾,0,0,Wang, Jin,0.0,0.0,0,0,10
+532,Jing Wang,Wang,Jing,王瑾,王瑾,王瑾,0,0,Wang, Jing,0.0,0.0,0,0,10
+543,May Wang,Wang,May,楼占梅,楼占梅,樓佔梅,0,0,Wang, May,0.0,0.0,0,0,10
+544,May Wang,Wang,May,樓占梅,楼占梅,樓占梅,0,0,Wang, May,0.0,0.0,0,0,10
+550,Q. Edward Wang,Wang,Q. Edward,王晴佳,王晴佳,王晴佳,0,0,Wang, Q. Edward,0.0,0.0,0,0,20
+553,Richard Wang,Wang,Richard,王崗,王岗,王崗,0,0,Wang, Richard,0.0,0.0,0,0,20
+566,Yanjun Isabel Wang,Wang,Yanjun Isabel,王豔君,王艳君,王豔君,0,0,Wang, Yanjun Isabel,0.0,0.0,0,0,10
+589,Frederic E. Jr. Wakeman,Wakeman,Frederic E. Jr.,魏斐德,魏斐德,魏斐德,0,0,Wakeman, Frederic E. Jr.,0.0,0.0,0,0,10
+590,Frederic Evans Wakeman,Wakeman,Frederic Evans,魏斐德,魏斐德,魏斐德,0,0,Wakeman, Frederic Evans,0.0,0.0,0,0,10
+591,"Frederic Wakeman, Jr.",Wakeman,Frederic Wakem,魏斐德,魏斐德,魏斐德,0,0,Wakeman,Frederic Wakem,0.0,0.0,0,0,10
+606,Richard Von Glahn,Von Glahn,Richard,万志英,万志英,萬志英,0,0,Von Glahn, Richard,0.0,0.0,0,0,10
+607,Lothar Von Falkenhausen,Von Falkenhausen,Lothar,罗泰,罗泰,羅泰,0,0,Von Falkenhausen, Lothar,0.0,0.0,0,0,10
+608,Lothar von Falkenhausen,von Falkenhausen,Lothar,罗泰,罗泰,羅泰,0,0,von Falkenhausen,Lothar,0.0,0.0,0,0,12
+612,Hans Ulrich Vogel,Vogel,Hans Ulrich,傅漢思,傅汉思,傅漢思,0,0,Vogel, Hans Ulrich,0.0,0.0,0,0,10
+620,Richard Vinograd,Vinograd,Richard,文以誠,文以诚,文以誠,0,0,Vinograd, Richard,0.0,0.0,0,0,10
+621,Richard E. Vinograd,Vinograd,Richard E.,文以诚,文以诚,文以誠,0,0,Vinograd, Richard E.,0.0,0.0,0,0,10
+637,Paul Ven Dyke,Ven Dyke,Paul,范岱克,范岱克,範岱克,0,0,Ven Dyke, Paul,0.0,0.0,0,0,10
+642,Leon Vandermeersch,Vandermeersch,Leon,汪德迈,汪德迈,汪德邁,0,0,Vandermeersch, Leon,0.0,0.0,0,0,20
+643,Leon Vandermeersch,Vandermeersch,Leon,汪德迈,汪德迈,汪德邁,0,0,Vandermeersch,Leon,0.0,0.0,0,0,10
+647,Bryan Van Norden,Van Norden,Bryan,萬百安,万百安,萬百安,0,0,Van Norden, Bryan,0.0,0.0,0,0,10
+648,Bryan W. Van Norden,Van Norden,Bryan W.,万百安,万百安,萬百安,0,0,Van Norden, Bryan W.,0.0,0.0,0,0,10
+649,Bryan W. van Norden,van Norden,Bryan W.,万百安,万百安,萬百安,0,0,van Norden,Bryan W.,0.0,0.0,0,0,12
+653,Hans Van Gulik,Van Gulik,Hans,高羅佩,高罗佩,高羅佩,0,0,Van Gulik, Hans,0.0,0.0,0,0,10
+654,Robert Hans van Gulik,van Gulik,Robert Hans,高罗佩,高罗佩,高羅佩,0,0,van Gulik,Robert Hans,1910.0,1967.0,荷兰,《大唐狄公案》,10
+656,Hans van Ess,van Ess,Hans,叶翰,叶翰,葉翰,0,0,van Ess,Hans,1962.0,0.0,德国,0,12
+657,Hans Van Ess,Van Ess,Hans,葉翰,叶翰,葉翰,0,0,Van Ess, Hans,0.0,0.0,0,0,10
+659,Paul A. Van Dyke,Van Dyke,Paul A.,範岱克,范岱克,範岱克,0,0,Van Dyke, Paul A.,0.0,0.0,0,0,10
+663,Leonard W J Van der Kuijp,Van der Kuijp,Leonard W J,范德康,范德康,範德康,0,0,Van der Kuijp, Leonard W J,0.0,0.0,0,0,10
+664,Leonard W J Van der Kuijp,Van der Kuijp,Leonard W J,范德康,范德康,范德康,0,0,Van der Kuijp, Leonard W J,0.0,0.0,0,0,10
+678,Paul Unschuld,Unschuld,Paul,文樹德,文树德,文樹德,0,0,Unschuld, Paul,0.0,0.0,0,0,10
+679,Paul Ulrich Unschuld,Unschuld,Paul Ulrich,文树德,文树德,文樹德,0,0,Unschuld, Paul Ulrich,0.0,0.0,0,0,10
+694,Ching-I Tu,Tu,Ching-I,涂经诒,涂经诒,塗經詒,0,0,Tu,Ching-I,1935.0,0.0,美国华裔,0,10
+696,Ching-I Tu,Tu,Ching-I,塗經詒,涂经诒,塗經詒,0,0,Tu, Ching-I,0.0,0.0,0,0,10
+698,Lien-che Tu,Tu,Lien-che,杜联喆,杜联喆,杜聯喆,0,0,Tu, Lien-che,0.0,0.0,0,0,10
+699,Lien-che Tu,Tu,Lien-che,杜聯喆,杜联喆,杜聯喆,0,0,Tu,Lien-che,0.0,0.0,0,0,10
+700,Wei-ming Tu,Tu,Wei-ming,杜维明,杜维明,杜維明,0,0,Tu, Wei-ming,0.0,0.0,0,0,20
+701,Wei-ming Tu,Tu,Wei-ming,杜维明,杜维明,杜維明,0,0,Tu,Wei-ming,1940.0,0.0,美国华裔,0,10
+705,Jing Tsu,Tsu,Jing,石靜遠,石静远,石靜遠,0,0,Tsu, Jing,0.0,0.0,0,0,10
+706,Jing Yuen Tsu,Tsu,Jing Yuen,石静远,石静远,石靜遠,0,0,Tsu, Jing Yuen,0.0,0.0,0,0,10
+712,Tsuen-hsuin Tsien,Tsien,Tsuen-hsuin,钱存训,钱存训,錢存訓,0,0,Tsien, Tsuen-hsuin,0.0,0.0,0,0,10
+713,Tsuen-Hsuin Tsien,Tsien,Tsuen-Hsuin,钱存训,钱存训,錢存訓,0,0,Tsien,Tsuen-Hsuin,1910.0,2015.0,美籍华裔,0,10
+714,Tsuen-Hsuin Tsien,Tsien,Tsuen-Hsuin,錢存訓,钱存训,錢存訓,0,0,Tsien, Tsuen-Hsuin,0.0,0.0,0,0,10
+726,Pen-yeh Tsao,Tsao,Pen-yeh,曹本冶,曹本冶,曹本冶,0,0,Tsao, Pen-yeh,0.0,0.0,0,0,10
+727,Pen-yeh Tsao,Tsao,Pen-yeh,曹本冶,曹本冶,曹本冶,0,0,Tsao,Pen-yeh,0.0,0.0,0,0,10
+735,Philip Tsai,Tsai,Philip,蔡骏治,蔡骏治,蔡駿治,0,0,Tsai, Philip,0.0,0.0,0,0,10
+766,Hoyt Tillman,Tillman,Hoyt,田浩,田浩,田浩,0,0,Tillman,Hoyt,1944.0,0.0,0,0,10
+767,Hoyt C. Tillman,Tillman,Hoyt C.,田浩,田浩,田浩,0,0,Tillman, Hoyt C.,0.0,0.0,0,0,10
+772,R. G. Tiedemann,Tiedemann,R. G.,狄德滿,狄德满,狄德滿,0,0,Tiedemann, R. G.,0.0,0.0,0,0,10
+773,R.G. Tiedemann,Tiedemann,R.G.,狄德满,狄德满,狄德滿,0,0,Tiedemann, R.G.,0.0,0.0,0,0,10
+795,Melvin P. Thatcher,Thatcher,Melvin P.,沙其敏,沙其敏,沙其敏,0,0,Thatcher, Melvin P.,0.0,0.0,0,0,10
+796,P. Melvin Thatcher,Thatcher,P. Melvin,沙其敏,沙其敏,沙其敏,0,0,Thatcher, P. Melvin,0.0,0.0,0,0,10
+798,Philip Thai,Thai,Philip,蔡駿治,蔡骏治,蔡駿治,0,0,Thai, Philip,0.0,0.0,0,0,10
+824,Jing-shen Tao,Tao,Jing-shen,陶晉生,陶晋生,陶晉生,0,0,Tao, Jing-shen,0.0,0.0,0,0,10
+825,Jing-shen Tao,Tao,Jing-shen,陶晉生,陶晋生,陶晉生,0,0,Tao,Jing-shen,0.0,0.0,0,0,10
+849,Kwok-Kan Tam,Tam,Kwok-Kan,谭国根,谭国根,譚國根,0,0,Tam, Kwok-Kan,0.0,0.0,0,0,10
+850,Kwok-kan Tam,Tam,Kwok-kan,譚國根,谭国根,譚國根,0,0,Tam, Kwok-kan,0.0,0.0,0,0,10
+853,Kenichi Takashima,Takashima,Kenichi,高嶋谦一,高嶋谦一,高嶋謙一,0,0,Takashima, Kenichi,0.0,0.0,0,0,10
+854,Ken-ichi Takashima,Takashima,Ken-ichi,高嶋謙一,高嶋谦一,高嶋謙一,0,0,Takashima, Ken-ichi,0.0,0.0,0,0,10
+864,Kenneth Swope,Swope,Kenneth,石康,石康,石康,0,0,Swope, Kenneth,0.0,0.0,0,0,10
+865,Kenneth M. Swope,Swope,Kenneth M.,石康,石康,石康,0,0,Swope, Kenneth M.,0.0,0.0,0,0,10
+888,Kang-i Sun,Sun,Kang-i,孙康宜,孙康宜,孫康宜, Kang-i Sun Chang,0,Sun, Kang-i,0.0,0.0,0,0,20
+898,Yan Sun,Sun,Yan,孙岩,孙岩,孫巖,0,0,Sun, Yan,0.0,0.0,0,0,10
+899,Yan Sun,Sun,Yan,孫岩,孙岩,孫岩,0,0,Sun, Yan,0.0,0.0,0,0,10
+903,Jonathan Sullivan,Sullivan,Jonathan,蘇利文,苏利文,蘇利文,0,0,Sullivan, Jonathan,0.0,0.0,0,0,10
+904,Michael Sullivan,Sullivan,Michael,苏利文,苏利文,蘇利文,0,0,Sullivan, Michael,0.0,0.0,0,0,20
+939,Josh Stenberg,Stenberg,Josh,石峻山,石峻山,石峻山,0,0,Stenberg, Josh,0.0,0.0,0,0,10
+940,Joshua Sidney Stenberg,Stenberg,Joshua Sidney,石峻山,石峻山,石峻山,0,0,Stenberg, Joshua Sidney,0.0,0.0,0,0,10
+949,Kristin Stapleton,Stapleton,Kristin,司昆仑,司昆仑,司崑崙,0,0,Stapleton, Kristin,0.0,0.0,0,0,20
+950,Kristin Stapleton,Stapleton,Kristin,司昆侖,司昆仑,司昆侖,0,0,Stapleton, Kristin,0.0,0.0,0,0,10
+962,Jonathan D. Spence,Spence,Jonathan D.,史景迁,史景迁,史景遷,0,0,Spence, Jonathan D.,0.0,0.0,0,0,10
+963,Jonathan D. Spence,Spence,Jonathan D.,史景迁,史景迁,史景遷,0,0,Spence,Jonathan D.,0.0,0.0,0,0,10
+964,Jonathan Dermot Spence,Spence,Jonathan Dermot,史景遷,史景迁,史景遷,0,0,Spence, Jonathan Dermot,0.0,0.0,0,0,10
+979,weijie Song,Song,weijie,宋伟杰,宋伟杰,宋偉傑,0,0,Song, weijie,0.0,0.0,0,0,10
+980,Weijie Song,Song,Weijie,宋偉傑,宋伟杰,宋偉傑,0,0,Song, Weijie,0.0,0.0,0,0,10
+984,Debora Sommer,Sommer,Debora,司马黛兰,司马黛兰,司馬黛蘭,0,0,Sommer,Debora,0.0,0.0,0,0,10
+985,Deborah A. Sommer,Sommer,Deborah A.,司馬黛蘭,司马黛兰,司馬黛蘭,0,0,Sommer, Deborah A.,0.0,0.0,0,0,10
+987,Dorothy Solinger,Solinger,Dorothy,苏黛瑞,苏黛瑞,蘇黛瑞,0,0,Solinger, Dorothy,0.0,0.0,0,0,10
+988,Dorothy J. Solinger,Solinger,Dorothy J.,蘇黛瑞,苏黛瑞,蘇黛瑞,0,0,Solinger, Dorothy J.,0.0,0.0,0,0,10
+999,Billy So,So,Billy,蘇基朗,苏基朗,蘇基朗,0,0,So, Billy,0.0,0.0,0,0,10
+1000,Billy K.L. So,So,Billy K.L.,苏基朗,苏基朗,蘇基朗,0,0,So, Billy K.L.,0.0,0.0,0,0,10
+1004,Kee Long So,So,Kee Long,蘇基朗,苏基朗,蘇基朗,0,0,So, Kee Long,0.0,0.0,0,0,10
+1007,Arthur H. Smith,Smith,Arthur H.,明恩溥,明恩溥,明恩溥,0,0,Smith, Arthur H.,0.0,0.0,0,0,10
+1008,Arthur Henderson Smith,Smith,Arthur Henderson,明恩溥,明恩溥,明恩溥,0,0,Smith, Arthur Henderson,0.0,0.0,0,0,10
+1011,Kidder Smith,Smith,Kidder,苏德恺,苏德恺,蘇德愷,0,0,Smith, Kidder,0.0,0.0,0,0,20
+1012,Kidder Smith,Smith,Kidder,苏德恺,苏德恺,蘇德愷,0,0,Smith,Kidder,1944.0,0.0,0,中国先秦史。,10
+1014,Richard Smith,Smith,Richard,司马富,司马富,司馬富,0,0,Smith, Richard,0.0,0.0,0,0,10
+1015,Richard Joseph Smith,Smith,Richard Joseph,司馬富,司马富,司馬富,0,0,Smith, Richard Joseph,0.0,0.0,0,0,10
+1020,Edward Slingerland,Slingerland,Edward,森舸澜,森舸澜,森舸瀾,0,0,Slingerland,Edward,0.0,0.0,0,0,12
+1021,Edward Slingerland,Slingerland,Edward,森舸瀾,森舸澜,森舸瀾,0,0,Slingerland, Edward,0.0,0.0,0,0,10
+1025,G. William Skinner,Skinner,G. William,施堅雅,施坚雅,施堅雅,0,0,Skinner, G. William,0.0,0.0,0,0,10
+1026,G.William Skinner,Skinner,G.William,施坚雅,施坚雅,施堅雅,0,0,Skinner, G.William,0.0,0.0,0,0,10
+1046,Patricia Sieber,Sieber,Patricia,夏頌,夏颂,夏頌,0,0,Sieber, Patricia,0.0,0.0,0,0,10
+1047,Patricia A. Sieber,Sieber,Patricia A.,夏颂,夏颂,夏頌,0,0,Sieber, Patricia A.,0.0,0.0,0,0,10
+1053,Kwong-loi Shun,Shun,Kwong-loi,信广来,信广来,信廣來,0,0,Shun, Kwong-loi,0.0,0.0,0,0,20
+1054,Kwong-loi Shun,Shun,Kwong-loi,信广来,信广来,信廣來,0,0,Shun,Kwong-loi,1953.0,0.0,华裔,0,12
+1061,Sergei M. Shirokogoroff,Shirokogoroff,Sergei M.,史祿國,史禄国,史祿國,0,0,Shirokogoroff, Sergei M.,0.0,0.0,0,0,10
+1062,Sergei Mikhailovich Shirokogoroff,Shirokogoroff,Sergei Mikhailovich,史禄国,史禄国,史祿國,0,0,Shirokogoroff, Sergei Mikhailovich,0.0,0.0,0,0,10
+1063,Susan Shirk,Shirk,Susan,谢淑丽,谢淑丽,謝淑麗,0,0,Shirk, Susan,0.0,0.0,0,0,10
+1064,Susan L. Shirk,Shirk,Susan L.,謝淑麗,谢淑丽,謝淑麗,0,0,Shirk, Susan L.,0.0,0.0,0,0,10
+1082,Anna Shields,Shields,Anna,田安,田安,田安,0,0,Shields, Anna,0.0,0.0,0,0,10
+1083,Anna M. Shields,Shields,Anna M.,田安,田安,田安,0,0,Shields, Anna M.,0.0,0.0,0,0,10
+1123,Edward L. Shaughnessy,Shaughnessy,Edward L.,夏含夷,夏含夷,夏含夷,0,0,Shaughnessy, Edward L.,0.0,0.0,0,0,20
+1124,Edward L. Shaughnessy,Shaughnessy,Edward L.,夏含夷,夏含夷,夏含夷,0,0,Shaughnessy,Edward L.,1952.0,0.0,美国,0,10
+1140,Paul L.M. Serruys,Serruys,Paul L.M.,司禮義,司礼义,司禮義,0,0,Serruys, Paul L.M.,0.0,0.0,0,0,10
+1141,Paul L-M. Serruys,Serruys,Paul L-M.,司礼义,司礼义,司禮義,0,0,Serruys, Paul L-M.,0.0,0.0,0,0,10
+1165,Gregory A. Scott,Scott,Gregory A.,史瑞戈,史瑞戈,史瑞戈,0,0,Scott, Gregory A.,0.0,0.0,0,0,10
+1166,Gregory Adam Scott,Scott,Gregory Adam,史瑞戈,史瑞戈,史瑞戈,0,0,Scott, Gregory Adam,0.0,0.0,0,0,10
+1171,Benjamin I. Schwartz,Schwartz,Benjamin I.,史華慈,史华慈,史華慈,0,0,Schwartz, Benjamin I.,0.0,0.0,0,0,10
+1172,Benjamine Schwartz,Schwartz,Benjamine,史华慈,史华慈,史華慈,0,0,Schwartz, Benjamine,0.0,0.0,0,0,10
+1178,Axel Schuessler,Schuessler,Axel,許思萊,许思莱,許思萊,0,0,Schuessler, Axel,0.0,0.0,0,0,20
+1179,Axel Schuessler,Schuessler,Axel,许思莱,许思莱,許思萊,0,0,Schuessler,Axel,1940.0,0.0,0,ABC Etymological Dictionary of Old Chinese；,10
+1193,Helwig Schmidt-Glintzer,Schmidt-Glintzer,Helwig,施寒微,施寒微,施寒微,0,0,Schmidt-Glintzer, Helwig,0.0,0.0,0,0,10
+1194,Helwig Schmidt-Glintz,Schmidt-Glintz,Helwig,施寒微,施寒微,施寒微,0,0,Schmidt-Glintz,Helwig,1948.0,0.0,德国,0,10
+1205,Kristofer Schipper,Schipper,Kristofer,施舟人,施舟人,施舟人,0,0,Schipper, Kristofer,0.0,0.0,0,0,10
+1206,Kristofer Marinus Schipper,Schipper,Kristofer Marinus,施舟人,施舟人,施舟人,0,0,Schipper, Kristofer Marinus,0.0,0.0,0,0,10
+1221,David Schaberg,Schaberg,David,史嘉柏,史嘉柏,史嘉柏,0,0,Schaberg, David,0.0,0.0,0,0,20
+1222,David Schaberg,Schaberg,David,史嘉柏,史嘉柏,史嘉柏,0,0,Schaberg,David,0.0,0.0,0,0,10
+1224,Robert Scalapino,Scalapino,Robert,施乐伯,施乐伯,施樂伯,0,0,Scalapino, Robert,0.0,0.0,0,0,10
+1225,Robert Anthony Scalapino,Scalapino,Robert Anthony,施樂伯,施乐伯,施樂伯,0,0,Scalapino, Robert Anthony,0.0,0.0,0,0,10
+1264,Bruce Rusk,Rusk,Bruce,阮思德,阮思德,阮思德,0,0,Rusk, Bruce,0.0,0.0,0,0,10
+1265,Bruce Rusk,Rusk,Bruce,阮思德,阮思德,阮思德,0,0,Rusk,Bruce,0.0,0.0,加拿大,中国明代文化史。,10
+1277,David Roy,Roy,David,芮效卫,芮效卫,芮效衛,0,0,Roy,David,0.0,0.0,0,0,10
+1278,David T. Roy,Roy,David T.,芮效卫,芮效卫,芮效衛,0,0,Roy, David T.,0.0,0.0,0,0,20
+1283,Harold Roth,Roth,Harold,罗浩,罗浩,羅浩,0,0,Roth,Harold,0.0,0.0,0,0,10
+1284,Harold D. Roth,Roth,Harold D.,罗浩,罗浩,羅浩,0,0,Roth, Harold D.,0.0,0.0,0,0,20
+1292,Henry Rosemont,Rosemont,Henry,罗思文,罗思文,羅思文,0,0,Rosemont, Henry,0.0,0.0,0,0,20
+1293,"Henry Rosemont, Jr.",Rosemont,Henry Rosem,罗思文,罗思文,羅思文,0,0,Rosemont,Henry Rosem,1934.0,2017.0,美国,0,13
+1297,Roselyn Hsueh Romano,Romano,Roselyn Hsueh,薛媖月,薛媖月,薛媖月,0,0,Romano, Roselyn Hsueh,0.0,0.0,0,0,10
+1299,David Rolston,Rolston,David,陆大伟,陆大伟,陸大偉,0,0,Rolston, David,0.0,0.0,0,0,10
+1300,David L. Rolston,Rolston,David L.,陸大偉,陆大伟,陸大偉,0,0,Rolston, David L.,0.0,0.0,0,0,10
+1308,Heiner Roetz,Roetz,Heiner,罗哲海,罗哲海,羅哲海,0,0,Roetz,Heiner,0.0,0.0,0,0,10
+1309,Heiner Roetz,Roetz,Heiner,羅哲海,罗哲海,羅哲海,0,0,Roetz, Heiner,0.0,0.0,0,0,10
+1329,Jeffrey K. Riegel,Riegel,Jeffrey K.,王安国,王安国,王安國,0,0,Riegel, Jeffrey K.,0.0,0.0,0,0,20
+1330,Jeffrey K. Riegel,Riegel,Jeffrey K.,王安国,王安国,王安國,0,0,Riegel,Jeffrey K.,1945.0,0.0,0,0,10
+1334,Mathias L. Richter,Richter,Mathias L.,李孟涛,李孟涛,李孟濤,0,0,Richter,Mathias L.,0.0,0.0,美国,0,10
+1335,Matthias L. Richter,Richter,Matthias L.,李孟涛,李孟涛,李孟濤,0,0,Richter, Matthias L.,0.0,0.0,0,0,20
+1339,Matteo Ricci,Ricci,Matteo,利玛窦,利玛窦,利瑪竇,0,0,Ricci,Matteo,0.0,0.0,0,0,10
+1340,Matteo Ricci,Ricci,Matteo,利瑪竇,利玛窦,利瑪竇,0,0,Ricci, Matteo,0.0,0.0,0,0,10
+1355,Edwin O. Reischauer,Reischauer,Edwin O.,赖世和,赖世和,賴世和,0,0,Reischauer, Edwin O.,0.0,0.0,0,0,10
+1356,Edwin Oldfather Reischauer,Reischauer,Edwin Oldfather,賴世和,赖世和,賴世和,0,0,Reischauer, Edwin Oldfather,0.0,0.0,0,0,10
+1366,Anne Rebull,Rebull,Anne,安妮,安妮,安妮,0,0,Rebull, Anne,0.0,0.0,0,0,10
+1381,Igor de Rachewiltz,Rachewiltz,Igor de,羅依果,罗依果,羅依果,0,0,Rachewiltz, Igor de,0.0,0.0,0,0,10
+1390,Cunxun Qian,Qian,Cunxun,钱存训,钱存训,錢存訓,0,0,Qian, Cunxun,0.0,0.0,0,0,10
+1396,Lucian W. Pye,Pye,Lucian W.,白鲁恂,白鲁恂,白魯恂,0,0,Pye, Lucian W.,0.0,0.0,0,0,10
+1397,Lucian Wilmot Pye,Pye,Lucian Wilmot,白魯恂,白鲁恂,白魯恂,0,0,Pye, Lucian Wilmot,0.0,0.0,0,0,10
+1421,Mingsun Poon,Poon,Mingsun,潘銘燊,潘铭燊,潘銘燊,0,0,Poon, Mingsun,0.0,0.0,0,0,20
+1427,Timoteus Pokora,Pokora,Timoteus,鲍格洛,鲍格洛,鮑格洛,0,0,Pokora,Timoteus,1928.0,1985.0,捷克,0,10
+1428,Timoteus Pokora,Pokora,Timoteus,鮑格洛,鲍格洛,鮑格洛,0,0,Pokora, Timoteus,0.0,0.0,0,0,10
+1429,Karl-Heinz Pohl,Pohl,Karl-Heinz,卜松山,卜松山,卜松山,0,0,Pohl, Karl-Heinz,0.0,0.0,0,0,10
+1430,Karl-Heinz Pohl,Pohl,Karl-Heinz,蔔松山,卜松山,蔔松山,0,0,Pohl, Karl-Heinz,0.0,0.0,0,0,10
+1434,Barbora Platzerová,Platzerová,Barbora,林百合,林百合,林百合,0,0,Platzerova, Barbora,0.0,0.0,0,0,10
+1440,Yuri Pines,Pines,Yuri,尤锐,尤锐,尤銳,0,0,Pines, Yuri,0.0,0.0,0,0,20
+1441,Yuri Pines,Pines,Yuri,尤锐,尤锐,尤銳,0,0,Pines,Yuri,1964.0,0.0,以色列,0,13
+1447,Laurence Picken,Picken,Laurence,毕鉴,毕鉴,畢鑑,0,0,Picken, Laurence,0.0,0.0,0,0,10
+1448,Laurence Picken,Picken,Laurence,畢鑒,毕鉴,畢鑒,0,0,Picken, Laurence,0.0,0.0,0,0,10
+1451,Rulan Chao Pian,Pian,Rulan Chao,赵如兰,赵如兰,趙如蘭,0,卞赵如兰,Pian, Rulan Chao,0.0,0.0,0,0,20
+1452,Steven Phlllips,Phlllips,Steven,费世文,费世文,費世文,0,0,Phlllips, Steven,0.0,0.0,0,0,10
+1453,Steven Phillips,Phillips,Steven,費世文,费世文,費世文,0,0,Phillips, Steven,0.0,0.0,0,0,10
+1494,E.H. Parker,Parker,E.H.,庄延龄,庄延龄,莊延齡,0,0,Parker, E.H.,0.0,0.0,0,0,10
+1495,Edward H. Parker,Parker,Edward H.,莊延齡,庄延龄,莊延齡,0,0,Parker, Edward H.,0.0,0.0,0,0,10
+1505,David Pankenier,Pankenier,David,班大為,班大为,班大為,0,0,Pankenier, David,0.0,0.0,0,0,10
+1506,David W. Pankenier,Pankenier,David W.,班大为,班大为,班大爲,0,0,Pankenier, David W.,0.0,0.0,0,0,10
+1514,Mingshen Pan,Pan,Mingshen,潘铭燊,潘铭燊,潘銘燊,0,0,Pan, Mingshen,0.0,0.0,0,0,20
+1525,David Ownby,Ownby,David,王大為,王大为,王大為,0,0,Ownby, David,0.0,0.0,0,0,10
+1526,David A. Ownby,Ownby,David A.,王大为,王大为,王大爲,0,0,Ownby, David A.,0.0,0.0,0,0,10
+1527,Stephen Owen,Owen,Stephen,宇文所安,宇文所安,宇文所安,0,0,Owen, Stephen,0.0,0.0,0,0,20
+1528,Stephen Owen,Owen,Stephen,宇文所安,宇文所安,宇文所安,0,0,Owen,Stephen,1946.0,0.0,0,0,12
+1549,Jean Oi,Oi,Jean,戴慕珍,戴慕珍,戴慕珍,0,0,Oi, Jean,0.0,0.0,0,0,10
+1550,Jean C. Oi,Oi,Jean C.,戴慕珍,戴慕珍,戴慕珍,0,0,Oi, Jean C.,0.0,0.0,0,0,10
+1555,Abt Oded,Oded,Abt,歐克德,欧克德,歐克德,0,0,Oded, Abt,0.0,0.0,0,0,10
+1562,Michael Nylan,Nylan,Michael,戴梅可,戴梅可,戴梅可,0,0,Nylan, Michael,0.0,0.0,0,0,20
+1563,Michael Nylan,Nylan,Michael,戴梅可,戴梅可,戴梅可,0,0,Nylan,Michael,1950.0,0.0,0,0,13
+1571,David S. Nivison,Nivison,David S.,倪德卫,倪德卫,倪德衛,0,0,Nivison, David S.,0.0,0.0,0,0,20
+1572,David S. Nivison,Nivison,David S.,倪德卫,倪德卫,倪德衛,0,0,Nivison,David S.,1923.0,2014.0,美国,0,14
+1573,Emerson Niou,Niou,Emerson,牛銘實,牛铭实,牛銘實,0,0,Niou, Emerson,0.0,0.0,0,0,10
+1574,Emerson M.S. Niou,Niou,Emerson M.S.,牛铭实,牛铭实,牛銘實,0,0,Niou, Emerson M.S.,0.0,0.0,0,0,10
+1577,Qiang Ning,Ning,Qiang,宁强,宁强,寧強,0,0,Ning, Qiang,0.0,0.0,0,0,10
+1578,Qiang Ning,Ning,Qiang,甯強,宁强,甯強,0,0,Ning, Qiang,0.0,0.0,0,0,10
+1580,William H Nienhauser,Nienhauser,William H,倪豪士,倪豪士,倪豪士,0,0,Nienhauser, William H,0.0,0.0,0,0,10
+1581,William H. Nienhauser,Nienhauser,William H.,倪豪士,倪豪士,倪豪士,0,0,Nienhauser, William H.,0.0,0.0,0,0,10
+1582,William H. Nienhauser,Nienhauser,William H.,倪豪士,倪豪士,倪豪士,0,0,Nienhauser,William H.,0.0,0.0,0,0,10
+1583,Bent Nielsen,Nielsen,Bent,尼尔森,尼尔森,尼爾森,0,0,Nielsen, Bent,0.0,0.0,0,0,10
+1585,Peter Nickerson,Nickerson,Peter,倪辅乾,倪辅干,倪輔乾,0,0,Nickerson, Peter,0.0,0.0,0,0,10
+1586,Peter Nickerson,Nickerson,Peter,倪輔幹,倪辅干,倪輔幹,0,0,Nickerson, Peter,0.0,0.0,0,0,10
+1597,On-cho Ng,Ng,On-cho,伍安祖,伍安祖,伍安祖,0,0,Ng, On-cho,0.0,0.0,0,0,20
+1598,On-cho Ng,Ng,On-cho,伍安祖,伍安祖,伍安祖,0,0,Ng,On-cho,0.0,0.0,美国,0,10
+1606,Joseph Needham,Needham,Joseph,李约瑟,李约瑟,李約瑟,0,0,Needham, Joseph,0.0,0.0,0,0,20
+1607,Joseph Needham,Needham,Joseph,李约瑟,李约瑟,李約瑟,0,0,Needham,Joseph,0.0,0.0,0,0,10
+1613,Andrew Nathan,Nathan,Andrew,黎安友,黎安友,黎安友,0,0,Nathan, Andrew,0.0,0.0,0,0,10
+1614,Andrew James Nathan,Nathan,Andrew James,黎安友,黎安友,黎安友,0,0,Nathan, Andrew James,0.0,0.0,0,0,10
+1623,Konan Naitō,Naitō,Konan,內藤湖南,内藤湖南,內藤湖南,0,0,Naito,Konan,0.0,0.0,0,0,10
+1627,Ramon H. Myers,Myers,Ramon H.,马若孟,马若孟,馬若孟,0,0,Myers, Ramon H.,0.0,0.0,0,0,10
+1628,Ramon Hawley Myers,Myers,Ramon Hawley,馬若孟,马若孟,馬若孟,0,0,Myers, Ramon Hawley,0.0,0.0,0,0,10
+1639,Donald J. Munro,Munro,Donald J.,孟旦,孟旦,孟旦,0,0,Munro,Donald J.,0.0,0.0,0,0,10
+1640,Donald Jacques Munro,Munro,Donald Jacques,孟旦,孟旦,孟旦,0,0,Munro, Donald Jacques,0.0,0.0,0,0,10
+1641,David Mungello,Mungello,David,孟德衛,孟德卫,孟德衛,0,0,Mungello, David,0.0,0.0,0,0,10
+1642,David E. Mungello,Mungello,David E.,孟德卫,孟德卫,孟德衛,0,0,Mungello, David E.,0.0,0.0,0,0,10
+1660,Frederick W. Mote,Mote,Frederick W.,牟复礼,牟复礼,牟復禮,0,0,Mote, Frederick W.,0.0,0.0,0,0,10
+1661,Frederick Wade Mote,Mote,Frederick Wade,牟複禮,牟复礼,牟複禮,0,0,Mote, Frederick Wade,0.0,0.0,0,0,10
+1674,Donald J. Monro,Monro,Donald J.,孟旦,孟旦,孟旦,0,0,Monro, Donald J.,0.0,0.0,0,0,10
+1707,Steven Miles,Miles,Steven,麦哲维,麦哲维,麥哲維,0,0,Miles, Steven,0.0,0.0,0,0,10
+1708,Steven B. Miles,Miles,Steven B.,麥哲維,麦哲维,麥哲維,0,0,Miles, Steven B.,0.0,0.0,0,0,10
+1714,Franz H. Michael,Michael,Franz H.,梅谷,梅谷,梅谷,0,0,Michael, Franz H.,0.0,0.0,0,0,10
+1715,Franz Henry Michael,Michael,Franz Henry,梅穀,梅谷,梅穀,0,0,Michael, Franz Henry,0.0,0.0,0,0,10
+1723,Thomas A. Metzger,Metzger,Thomas A.,墨子刻,墨子刻,墨子刻,0,0,Metzger, Thomas A.,0.0,0.0,0,0,10
+1724,Thomas A. Metzger,Metzger,Thomas A.,墨子刻,墨子刻,墨子刻,0,0,Metzger,Thomas A.,0.0,0.0,0,0,10
+1729,Thomas Menzger,Menzger,Thomas,墨子刻,墨子刻,墨子刻,0,0,Menzger, Thomas,0.0,0.0,0,0,20
+1775,Christian Matthias,Matthias,Christian,田默迪,田默迪,田默迪,0,0,Matthias, Christian,0.0,0.0,0,0,10
+1786,José Eugenio Borao Mateo,Mateo,José Eugenio Borao,鮑曉鷗,鲍晓鸥,鮑曉鷗,0,0,Mateo, Jose Eugenio Borao,0.0,0.0,0,0,10
+1798,William Martin,Martin,William,丁韙良,丁韪良,丁韙良,0,0,Martin, William,0.0,0.0,0,0,10
+1799,William Alexander Parsons Martin,Martin,William Alexander Parsons,丁韪良,丁韪良,丁韙良,0,0,Martin, William Alexander Parsons,0.0,0.0,0,0,10
+1802,Robert B Marks,Marks,Robert B,马立博,马立博,馬立博,0,0,Marks, Robert B,0.0,0.0,0,0,10
+1803,Robert B. Marks,Marks,Robert B.,馬立博,马立博,馬立博,0,0,Marks, Robert B.,0.0,0.0,0,0,10
+1805,Mark A. Csikszentmihalyi,Mark,Mark A. Csikszentmih,齐思敏,齐思敏,齊思敏,0,0,Mark,Mark A. Csikszentmih,1964.0,0.0,0,0,10
+1809,Kai Marchal,Marchal,Kai,马恺之,马恺之,馬愷之,0,0,Marchal,Kai,0.0,0.0,0,0,10
+1810,Kai Marchal,Marchal,Kai,馬愷之,马恺之,馬愷之,0,0,Marchal, Kai,0.0,0.0,0,0,10
+1820,Goran Malmqvist,Malmqvist,Goran,马悦然,马悦然,馬悅然,0,0,Malmqvist, Goran,0.0,0.0,0,0,20
+1821,Göran Malmqvist,Malmqvist,Göran,马悦然,马悦然,馬悅然,0,0,Malmqvist,Goran,1924.0,0.0,0,0,10
+1824,John Makeham,Makeham,John,梅约翰,梅约翰,梅約翰,0,0,Makeham, John,0.0,0.0,0,0,20
+1825,John Makeham,Makeham,John,梅约翰,梅约翰,梅約翰,0,0,Makeham,John,1955.0,0.0,0,0,12
+1828,Victor Mair,Mair,Victor,梅维恒,梅维恒,梅維恆,0,0,Mair, Victor,0.0,0.0,0,0,10
+1829,Victor H. Mair,Mair,Victor H.,梅維恒,梅维恒,梅維恒,0,0,Mair, Victor H.,0.0,0.0,0,0,10
+1836,Colin MacKerras,MacKerras,Colin,马克林,马克林,馬克林,0,0,MacKerras, Colin,0.0,0.0,0,0,10
+1837,Colin Mackerras,Mackerras,Colin,馬克林,马克林,馬克林,0,0,Mackerras, Colin,0.0,0.0,0,0,10
+1842,Jing-heng Sheng Ma,Ma,Jing-heng Sheng,马靜恒,马静恒,馬靜恆,0,0,Ma, Jing-heng Sheng,0.0,0.0,0,0,10
+1843,Jing-heng Sheng Ma,Ma,Jing-heng Sheng,馬靜恒,马静恒,馬靜恒,0,0,Ma, Jing-heng Sheng,0.0,0.0,0,0,10
+1853,Richard J. Lynn,Lynn,Richard J.,林理彰,林理彰,林理彰,0,0,Lynn, Richard J.,0.0,0.0,0,0,10
+1854,Richard John Lynn,Lynn,Richard John,林理彰,林理彰,林理彰,0,0,Lynn, Richard John,0.0,0.0,0,0,10
+1866,Sheri A Lullo,Lullo,Sheri A,卢诗蕊,卢诗蕊,盧詩蕊,0,0,Lullo, Sheri A,0.0,0.0,0,0,10
+1867,Sheri A. Lullo,Lullo,Sheri A.,盧詩蕊,卢诗蕊,盧詩蕊,0,0,Lullo, Sheri A.,0.0,0.0,0,0,10
+1873,W. Pey Lucian,Lucian,W. Pey,白鲁恂,白鲁恂,白魯恂,0,0,Lucian, W. Pey,0.0,0.0,0,0,10
+1908,Rudolf Löwenthal,Löwenthal,Rudolf,羅文達,罗文达,羅文達,0,0,Lowenthal, Rudolf,0.0,0.0,0,0,10
+1919,Olga Lomová,Lomová,Olga,罗然,罗然,羅然,0,0,Lomova,Olga,1955.0,0.0,0,0,10
+1920,Olga Lomová,Lomová,Olga,羅然,罗然,羅然,0,0,Lomova, Olga,0.0,0.0,0,0,10
+1922,Rudolph Loewenthal,Loewenthal,Rudolph,羅文達,罗文达,羅文達,0,0,Loewenthal, Rudolph,0.0,0.0,0,0,10
+1924,Michael Loewe,Loewe,Michael,鲁惟一,鲁惟一,魯惟一,0,0,Loewe,Michael,1922.0,0.0,英国,0,12
+1925,Michael Loewe,Loewe,Michael,魯惟一,鲁惟一,魯惟一,0,0,Loewe, Michael,0.0,0.0,0,0,10
+1939,Yuet Keung Lo,Lo,Yuet Keung,勞悅強,劳悦强,勞悅強,0,0,Lo, Yuet Keung,0.0,0.0,0,0,10
+1940,Yuet-keung Lo,Lo,Yuet-keung,劳悦强,劳悦强,勞悅強,0,0,Lo, Yuet-keung,0.0,0.0,0,0,10
+1966,Kwang-Ching Liu,Liu,Kwang-Ching,刘广京,刘广京,劉廣京,0,0,Liu, Kwang-Ching,0.0,0.0,0,0,10
+1967,Kwang-ching Liu,Liu,Kwang-ching,劉廣京,刘广京,劉廣京,0,0,Liu, Kwang-ching,0.0,0.0,0,0,10
+1985,Shu-hsien Liu,Liu,Shu-hsien,刘述先,刘述先,劉述先,0,0,Liu,Shu-hsien,0.0,0.0,0,0,10
+1986,Shu-hsien Liu,Liu,Shu-hsien,劉述先,刘述先,劉述先,0,0,Liu, Shu-hsien,0.0,0.0,0,0,10
+2003,Xun Liu,Liu,Xun,刘迅,刘迅,劉迅,0,0,Liu, Xun,0.0,0.0,0,0,10
+2004,Xun Liu,Liu,Xun,劉迅,刘迅,劉迅,0,0,Liu,Xun,0.0,0.0,0,0,10
+2018,E. Perry Link,Link,E. Perry,林培瑞,林培瑞,林培瑞,0,0,Link, E. Perry,0.0,0.0,0,0,10
+2019,Perry Link,Link,Perry,林培瑞,林培瑞,林培瑞,0,0,Link, Perry,0.0,0.0,0,0,10
+2043,Man-houng Lin,Lin,Man-houng,林满红,林满红,林滿紅,0,0,Lin, Man-houng,0.0,0.0,0,0,10
+2044,Man-Houng Lin,Lin,Man-Houng,林滿紅,林满红,林滿紅,0,0,Lin, Man-Houng,0.0,0.0,0,0,10
+2062,Yusheng Lin,Lin,Yusheng,林毓生,林毓生,林毓生,0,0,Lin, Yusheng,0.0,0.0,0,0,10
+2063,Yu-sheng Lin,Lin,Yu-sheng,林毓生,林毓生,林毓生,0,0,Lin, Yu-sheng,0.0,0.0,0,0,10
+2072,Louis Ligeti,Ligeti,Louis,李盖提,李盖提,李蓋提,0,0,Ligeti, Louis,0.0,0.0,0,0,10
+2073,Louis Ligeti,Ligeti,Louis,李蓋提,李盖提,李蓋提,0,0,Ligeti,Louis,0.0,0.0,0,0,10
+2082,Hsien-huei Liao,Liao,Hsien-huei,廖咸惠,廖咸惠,廖鹹惠,0,0,Liao, Hsien-huei,0.0,0.0,0,0,10
+2083,Hsien-huei Liao,Liao,Hsien-huei,廖咸惠,廖咸惠,廖咸惠,0,0,Liao, Hsien-huei,0.0,0.0,0,0,10
+2094,Audrey Y.H. Li,Li,Audrey Y.H.,李艳惠,李艳惠,李豔惠,0,0,Li, Audrey Y.H.,0.0,0.0,0,0,20
+2098,Chenyang Li,Li,Chenyang,李晨阳,李晨阳,李晨陽,0,0,Li,Chenyang,1956.0,0.0,华裔,0,10
+2099,Chenyang Li,Li,Chenyang,李晨陽,李晨阳,李晨陽,0,0,Li, Chenyang,0.0,0.0,0,0,10
+2104,Feng Li,Li,Feng,李峰,李峰,李峯,0,0,Li, Feng,0.0,0.0,0,0,20
+2105,Feng Li,Li,Feng,李峰,李峰,李峰,0,0,Li,Feng,1962.0,0.0,华裔美国,0,10
+2111,Huaiyin Li,Li,Huaiyin,李怀印,李怀印,李懷印,0,0,Li, Huaiyin,0.0,0.0,0,0,10
+2112,Huai-yin Li,Li,Huai-yin,李懷印,李怀印,李懷印,0,0,Li, Huai-yin,0.0,0.0,0,0,10
+2134,Tze-chung Li,Li,Tze-chung,李志钟,李志钟,李志鍾,0,0,Li, Tze-chung,0.0,0.0,0,0,10
+2135,Tze-chung Li,Li,Tze-chung,李志鐘,李志钟,李志鐘,0,0,Li, Tze-chung,0.0,0.0,0,0,10
+2146,Yen-hui Audrey Li,Li,Yen-hui Audrey,李豔惠,李艳惠,李豔惠,0,0,Li, Yen-hui Audrey,0.0,0.0,0,0,10
+2150,Mark E. Lewis,Lewis,Mark E.,陆威仪,陆威仪,陸威儀,0,0,Lewis,Mark E.,1954.0,0.0,美国,0,12
+2151,Mark Edward Lewis,Lewis,Mark Edward,陆威仪,陆威仪,陸威儀,0,0,Lewis, Mark Edward,0.0,0.0,0,0,20
+2153,Dore Levy,Levy,Dore,李德瑞,李德瑞,李德瑞,0,0,Levy, Dore,0.0,0.0,0,0,10
+2154,Dore J. Levy,Levy,Dore J.,李德瑞,李德瑞,李德瑞,0,0,Levy, Dore J.,0.0,0.0,0,0,10
+2162,Joseph R. Levenson,Levenson,Joseph R.,列文森,列文森,列文森,0,0,Levenson, Joseph R.,0.0,0.0,0,0,20
+2163,Joseph R. Levenson,Levenson,Joseph R.,列文森,列文森,列文森,0,0,Levenson,Joseph R.,0.0,0.0,0,0,10
+2167,Angela Ki Che Leung,Leung,Angela Ki Che,梁其姿,梁其姿,梁其姿,AKC Leung,0,Leung, Angela Ki Che,0.0,0.0,0,0,10
+2168,Angela Kit Che Leung,Leung,Angela Kit Che,梁其姿,梁其姿,梁其姿,0,0,Leung, Angela Kit Che,0.0,0.0,0,0,10
+2210,James Lee,Lee,James,李中清,李中清,李中清,0,0,Lee, James,0.0,0.0,0,0,10
+2211,James Z. Lee,Lee,James Z.,李中清,李中清,李中清,0,0,Lee, James Z.,0.0,0.0,0,0,10
+2218,Leo Ou-fan Lee,Lee,Leo Ou-fan,李欧梵,李欧梵,李歐梵,0,0,Lee, Leo Ou-fan,0.0,0.0,0,0,10
+2219,Leo Ou-Fan Lee,Lee,Leo Ou-Fan,李歐梵,李欧梵,李歐梵,0,0,Lee, Leo Ou-Fan,0.0,0.0,0,0,10
+2239,Yokshiu F Lee,Lee,Yokshiu F,李煜绍,李煜绍,李煜紹,0,0,Lee, Yokshiu F,0.0,0.0,0,0,10
+2240,Yokshiu F. Lee,Lee,Yokshiu F.,李煜紹,李煜绍,李煜紹,0,0,Lee, Yokshiu F.,0.0,0.0,0,0,10
+2244,Lothar Ledderose,Ledderose,Lothar,雷德侯,雷德侯,雷德侯,0,0,Ledderose, Lothar,0.0,0.0,0,0,10
+2245,Lothar Ledderose,Ledderose,Lothar,雷德侯,雷德侯,雷德侯,0,0,Ledderose,Lothar,0.0,0.0,0,0,10
+2250,Charles Le Blanc,Le Blanc,Charles,白光華,白光华,白光華,0,0,Le Blanc, Charles,0.0,0.0,0,0,10
+2252,Marco Lazzarotti,Lazzarotti,Marco,李克,李克,李克,0,0,Lazzarotti, Marco,0.0,0.0,0,0,10
+2263,D. C . Lau,Lau,D. C .,刘殿爵,刘殿爵,劉殿爵,0,0,Lau,D. C .,1921.0,2010.0,中国香港,0,13
+2264,D.C. Lau,Lau,D.C.,劉殿爵,刘殿爵,劉殿爵,0,0,Lau, D.C.,0.0,0.0,0,0,10
+2278,Fierre F. Landry,Landry,Fierre F.,李磊,李磊,李磊,0,0,Landry, Fierre F.,0.0,0.0,0,0,10
+2279,Pierre F. Landry,Landry,Pierre F.,李磊,李磊,李磊,0,0,Landry, Pierre F.,0.0,0.0,0,0,10
+2302,Karyn Lai,Lai,Karyn,賴蘊慧,赖蕴慧,賴蘊慧,0,0,Lai, Karyn,0.0,0.0,0,0,10
+2303,Karyn L. Lai,Lai,Karyn L.,赖蕴慧,赖蕴慧,賴蘊慧,0,0,Lai,Karyn L.,0.0,0.0,0,0,10
+2324,Marina Kuznetsova-Fetisova,Kuznetsova-Fetisova,Marina,顧曼莉,顾曼莉,顧曼莉,0,0,Kuznetsova-Fetisova, Marina,0.0,0.0,0,0,10
+2325,Norman Kutcher,Kutcher,Norman,柯啟玄,柯启玄,柯啟玄,0,0,Kutcher, Norman,0.0,0.0,0,0,10
+2326,Norman Alan Kutcher,Kutcher,Norman Alan,柯启玄,柯启玄,柯啓玄,0,0,Kutcher, Norman Alan,0.0,0.0,0,0,10
+2328,Shigehisa Kuriyama,Kuriyama,Shigehisa,栗山茂久,栗山茂久,慄山茂久,0,0,Kuriyama, Shigehisa,0.0,0.0,0,0,10
+2329,Shigehisa Kuriyama,Kuriyama,Shigehisa,栗山茂久,栗山茂久,栗山茂久,0,0,Kuriyama, Shigehisa,0.0,0.0,0,0,10
+2333,Chunghao Kuo,Kuo,Chunghao,郭忠豪,郭忠豪,郭忠豪,0,0,Kuo, Chunghao,0.0,0.0,0,0,10
+2336,Pio Kuo,Kuo,Pio,郭忠豪,郭忠豪,郭忠豪,0,0,Kuo, Pio,0.0,0.0,0,0,10
+2347,P.N. Kuiper,Kuiper,P.N.,高柏,高柏,高柏,0,0,Kuiper, P.N.,0.0,0.0,0,0,10
+2348,Leonard W. J. van der Kuijp,Kuijp,Leonard W. J. van der,范德康,范德康,范德康,0,0,Kuijp, Leonard W. J. van der,0.0,0.0,0,0,10
+2350,Philip Kuhn,Kuhn,Philip,孔飞力,孔飞力,孔飛力,0,孔复礼,Kuhn, Philip,0.0,0.0,0,0,10
+2351,Philip A. Kuhn,Kuhn,Philip A.,孔飛力,孔飞力,孔飛力,0,0,Kuhn, Philip A.,0.0,0.0,0,0,10
+2352,Philip Alden Kuhn,Kuhn,Philip Alden,孔飞力,孔飞力,孔飛力,0,0,Kuhn,Philip Alden,0.0,0.0,0,0,10
+2363,Vasili Mikhailovich Kryukov,Kryukov,Vasili Mikhailovich,刘华夏,刘华夏,劉華夏,0,0,Kryukov, Vasili Mikhailovich,0.0,0.0,0,0,10
+2364,Vassili Kryukov,Kryukov,Vassili,劉華夏,刘华夏,劉華夏,0,0,Kryukov, Vassili,0.0,0.0,0,0,10
+2379,Jon Kowallis,Kowallis,Jon,寇致铭,寇致铭,寇致銘,0,0,Kowallis, Jon,0.0,0.0,0,0,10
+2380,Jon Eugene von Kowallis,Kowallis,Jon Eugene von,寇致銘,寇致铭,寇致銘,0,0,Kowallis, Jon Eugene von,0.0,0.0,0,0,10
+2394,Naitō Konan,Konan,Naitō,内藤湖南,内藤湖南,內藤湖南,0,0,Konan, Naito,0.0,0.0,0,0,10
+2407,David Knechtges,Knechtges,David,康達維,康达维,康達維,0,0,Knechtges, David,0.0,0.0,0,0,10
+2408,David R. Knechtges,Knechtges,David R.,康达维,康达维,康達維,0,0,Knechtges, David R.,0.0,0.0,0,0,20
+2409,David R. Knechtges,Knechtges,David R.,康达维,康达维,康達維,0,0,Knechtges,David R.,0.0,0.0,0,0,10
+2418,Kenneth Klein,Klein,Kenneth,柯兰谷,柯兰谷,柯蘭谷,0,0,Klein, Kenneth,0.0,0.0,0,0,10
+2419,Kenneth Klein,Klein,Kenneth,柯蘭穀,柯兰谷,柯蘭穀,0,0,Klein, Kenneth,0.0,0.0,0,0,10
+2421,Terry Kleeman,Kleeman,Terry,祁泰履,祁泰履,祁泰履,0,0,Kleeman, Terry,0.0,0.0,0,0,10
+2422,Terry F. Kleeman,Kleeman,Terry F.,祁泰履,祁泰履,祁泰履,0,0,Kleeman, Terry F.,0.0,0.0,0,0,10
+2427,William Kirby,Kirby,William,柯伟林,柯伟林,柯偉林,0,0,Kirby, William,0.0,0.0,0,0,10
+2428,William C. Kirby,Kirby,William C.,柯偉林,柯伟林,柯偉林,0,0,Kirby, William C.,0.0,0.0,0,0,10
+2433,Ambrose Y.C King,King,Ambrose Y.C,金耀基,金耀基,金耀基,0,0,King, Ambrose Y.C,0.0,0.0,0,0,10
+2434,Ambrose Y.C. King,King,Ambrose Y.C.,金耀基,金耀基,金耀基,0,0,King, Ambrose Y.C.,0.0,0.0,0,0,10
+2460,Paize C. Keulemans,Keulemans,Paize C.,古柏,古柏,古柏,0,0,Keulemans, Paize C.,0.0,0.0,0,0,10
+2461,Pieter Keulemans,Keulemans,Pieter,古柏,古柏,古柏,0,0,Keulemans, Pieter,0.0,0.0,0,0,10
+2463,Martin Kern,Kern,Martin,柯马丁,柯马丁,柯馬丁,0,0,Kern, Martin,0.0,0.0,0,0,20
+2464,Martin Kern,Kern,Martin,柯马丁,柯马丁,柯馬丁,0,0,Kern,Martin,0.0,0.0,0,0,12
+2482,Paul Katz,Katz,Paul,康豹,康豹,康豹,0,0,Katz, Paul,0.0,0.0,0,0,10
+2483,Paul R. Katz,Katz,Paul R.,康豹,康豹,康豹,0,0,Katz, Paul R.,0.0,0.0,0,0,10
+2489,Bernard Karlgren,Karlgren,Bernard,高本漢,高本汉,高本漢,0,0,Karlgren, Bernard,0.0,0.0,0,0,10
+2490,Klas B. J. Karlgren,Karlgren,Klas B. J.,高本汉,高本汉,高本漢,0,0,Karlgren,Klas B. J.,1889.0,1978.0,瑞典,0,10
+2491,Klas Bernhard Johannes Karlgren,Karlgren,Klas Bernhard Johannes,高本汉,高本汉,高本漢,0,0,Karlgren, Klas Bernhard Johannes,0.0,0.0,0,0,10
+2507,Marc Kalinowski,Kalinowski,Marc,馬克,马克,馬克,0,0,Kalinowski, Marc,0.0,0.0,0,0,10
+2514,Harold Kahn,Kahn,Harold,康无为,康无为,康無爲,0,0,Kahn, Harold,0.0,0.0,0,0,10
+2515,Harold Kahn,Kahn,Harold,康無為,康无为,康無為,0,0,Kahn, Harold,0.0,0.0,0,0,10
+2526,David Jordon,Jordon,David,焦大衛,焦大卫,焦大衛,0,0,Jordon, David,0.0,0.0,0,0,10
+2527,David K. Jordan,Jordan,David K.,焦大卫,焦大卫,焦大衛,0,0,Jordan, David K.,0.0,0.0,0,0,20
+2529,Stephen Jones,Jones,Stephen,钟思第,钟思第,鍾思第,0,0,Jones, Stephen,0.0,0.0,0,0,10
+2530,Stephen Jones,Jones,Stephen,鐘思第,钟思第,鐘思第,0,0,Jones, Stephen,0.0,0.0,0,0,10
+2531,William C. Jones,Jones,William C.,钟威廉,钟威廉,鍾威廉,0,琼斯,Jones, William C.,0.0,0.0,0,0,10
+2532,William C. Jones,Jones,William C.,鐘威廉,钟威廉,鐘威廉,0, 鐘斯,Jones, William C.,0.0,0.0,0,0,10
+2533,Alastair Iain Johnston,Johnston,Alastair Iain,江憶恩,江忆恩,江憶恩,0,0,Johnston, Alastair Iain,0.0,0.0,0,0,10
+2534,Alastair Ian Johnston,Johnston,Alastair Ian,江忆恩,江忆恩,江憶恩,0,0,Johnston, Alastair Ian,0.0,0.0,0,0,10
+2538,David Johnson,Johnson,David,姜士彬,姜士彬,姜士彬,0,0,Johnson, David,0.0,0.0,0,0,10
+2539,David Johnson,Johnson,David,薑士彬,姜士彬,薑士彬,0,0,Johnson, David,0.0,0.0,0,0,10
+2555,Changbin Jiang,Jiang,Changbin,姜长斌,姜长斌,姜長斌,0,0,Jiang, Changbin,0.0,0.0,0,0,10
+2556,Changbin Jiang,Jiang,Changbin,薑長斌,姜长斌,薑長斌,0,0,Jiang, Changbin,0.0,0.0,0,0,10
+2562,Yonglin Jiang,Jiang,Yonglin,姜永琳,姜永琳,姜永琳,0,0,Jiang, Yonglin,0.0,0.0,0,0,10
+2563,Yonglin Jiang,Jiang,Yonglin,薑永琳,姜永琳,薑永琳,0,0,Jiang, Yonglin,0.0,0.0,0,0,10
+2577,Gary Jefferson,Jefferson,Gary,謝千里,谢千里,謝千里,0,0,Jefferson, Gary,0.0,0.0,0,0,10
+2578,Gary H. Jefferson,Jefferson,Gary H.,谢千里,谢千里,謝千里,0,0,Jefferson, Gary H.,0.0,0.0,0,0,10
+2593,Bruce Jacobs,Jacobs,Bruce,家博,家博,家博,0,0,Jacobs, Bruce,0.0,0.0,0,0,10
+2594,J. Bruce Jacobs,Jacobs,J. Bruce,家博,家博,家博,0,0,Jacobs, J. Bruce,0.0,0.0,0,0,10
+2599,Philip J. Ivanhoe,Ivanhoe,Philip J.,艾文贺,艾文贺,艾文賀,0,0,Ivanhoe, Philip J.,0.0,0.0,0,0,20
+2600,Philip J. Ivanhoe,Ivanhoe,Philip J.,艾文贺,艾文贺,艾文賀,0,0,Ivanhoe,Philip J.,1954.0,0.0,0,0,13
+2610,Robert L. Irick,Irick,Robert L.,艾文博,艾文博,艾文博,0,0,Irick, Robert L.,0.0,0.0,0,0,10
+2611,Robert Lee Irick,Irick,Robert Lee,艾文博,艾文博,艾文博,0,0,Irick, Robert Lee,0.0,0.0,0,0,10
+2618,Michael D. K. Ing,Ing,Michael D. K.,吴荣桂,吴荣桂,吳榮桂,0,0,Ing,Michael D. K.,0.0,0.0,美国,0,10
+2619,Michael Kaulana Ing,Ing,Michael Kaulana,吴荣桂,吴荣桂,吳榮桂,0,0,Ing, Michael Kaulana,0.0,0.0,0,0,10
+2626,Robert Hymes,Hymes,Robert,韩明士,韩明士,韓明士,0,0,Hymes, Robert,0.0,0.0,0,0,10
+2627,Robert P. Hymes,Hymes,Robert P.,韓明士,韩明士,韓明士,0,0,Hymes, Robert P.,0.0,0.0,0,0,10
+2632,Theodore Huters,Huters,Theodore,胡志德,胡志德,胡志德,0,0,Huters, Theodore,0.0,0.0,0,0,10
+2633,Theodore D. Huters,Huters,Theodore D.,胡志德,胡志德,胡志德,0,0,Huters, Theodore D.,0.0,0.0,0,0,10
+2647,Arthur W. Hummell,Hummell,Arthur W.,恒慕义,恒慕义,恆慕義,0,0,Hummell, Arthur W.,0.0,0.0,0,0,10
+2648,Arthur W. Hummel,Hummel,Arthur W.,恒慕义,恒慕义,恒慕義,0,0,Hummel,Arthur W.,1884.0,1975.0,美国,0,20
+2649,A. F. P. Hulsewé,Hulsewé,A. F. P.,何四维,何四维,何四維,0,0,Hulsewe,A. F. P.,1910.0,1993.0,荷兰,0,10
+2650,A. F. P. Hulsewé,Hulsewé,A. F. P.,何四維,何四维,何四維,0,0,Hulsewe, A. F. P.,0.0,0.0,0,0,20
+2654,Frederick G. L. Huetwell,Huetwell,Frederick G. L.,謝宇,谢宇,謝宇,0,0,Huetwell, Frederick G. L.,0.0,0.0,0,0,10
+2662,C.T. James Huang,Huang,C.T. James,黃正德,黄正德,黃正德,0,0,Huang, C.T. James,0.0,0.0,0,0,10
+2665,Chun-chieh Huang,Huang,Chun-chieh,黃俊傑,黄俊杰,黃俊傑,0,0,Huang, Chun-chieh,0.0,0.0,0,0,10
+2666,Huang Chün-chieh,Huang,Chün-chieh,黄俊杰,黄俊杰,黃俊傑,0,0,Huang,Chun-chieh,0.0,0.0,0,0,10
+2667,James C.T. Huang,Huang,James C.T.,黄正德,黄正德,黃正德,0,0,Huang, James C.T.,0.0,0.0,0,0,10
+2674,Philip Huang,Huang,Philip,黄宗智,黄宗智,黃宗智,0,0,Huang, Philip,0.0,0.0,0,0,10
+2675,Philip Chung-chih Huang,Huang,Philip Chung-chih,黃宗智,黄宗智,黃宗智,0,0,Huang, Philip Chung-chih,0.0,0.0,0,0,10
+2698,John Y. H. Hu,Hu,John Y. H.,胡耀恒,胡耀恒,胡耀恆,0,0,Hu, John Y. H.,0.0,0.0,0,0,10
+2699,John Y. H. Hu,Hu,John Y. H.,胡耀恒,胡耀恒,胡耀恒,0,0,Hu, John Y. H.,0.0,0.0,0,0,10
+2709,Roselyn Hsueh Romano,Hsueh Romano,Roselyn,薛媖月,薛媖月,薛媖月,0,0,Hsueh Romano, Roselyn,0.0,0.0,0,0,10
+2711,Hsü Cho-yun,Hsü,Cho-yun,许倬云,许倬云,許倬雲,0,0,Hsu,Cho-yun,1930.0,0.0,华裔美国,0,10
+2712,Cho-yun Hsu,Hsu,Cho-yun,許倬雲,许倬云,許倬雲,0,0,Hsu, Cho-yun,0.0,0.0,0,0,20
+2715,Immanuel C. Y. Hsu,Hsu,Immanuel C. Y.,徐中约,徐中约,徐中約,0,0,Hsu, Immanuel C. Y.,0.0,0.0,0,0,10
+2716,Immanuel Chung-yueh Hsu,Hsu,Immanuel Chung-yueh,徐中約,徐中约,徐中約,0,0,Hsu, Immanuel Chung-yueh,0.0,0.0,0,0,10
+2719,Kai-Yu Hsu,Hsu,Kai-Yu,許芥昱,许芥昱,許芥昱,0,0,Hsu, Kai-Yu,0.0,0.0,0,0,10
+2720,Kai-yu Hsu,Hsu,Kai-yu,许芥昱,许芥昱,許芥昱,0,0,Hsu, Kai-yu,0.0,0.0,0,0,10
+2729,Anderw Hsieh,Hsieh,Anderw,谢正光,谢正光,謝正光,0,0,Hsieh, Anderw,0.0,0.0,0,0,10
+2730,Andrew Hsieh,Hsieh,Andrew,謝正光,谢正光,謝正光,0,0,Hsieh, Andrew,0.0,0.0,0,0,10
+2735,John Fuh-sheng Hsieh,Hsieh,John Fuh-sheng,谢复生,谢复生,謝復生,0,0,Hsieh, John Fuh-sheng,0.0,0.0,0,0,10
+2736,John Fuh-sheng Hsieh,Hsieh,John Fuh-sheng,謝複生,谢复生,謝複生,0,0,Hsieh, John Fuh-sheng,0.0,0.0,0,0,10
+2740,Chi-ching Hsiao,Hsiao,Chi-ching,萧启庆,萧启庆,蕭啓慶,0,0,Hsiao, Chi-ching,0.0,0.0,0,0,10
+2741,Chi-ching Hsiao,Hsiao,Chi-ching,蕭啟慶,萧启庆,蕭啟慶,0,0,Hsiao, Chi-ching,0.0,0.0,0,0,10
+2744,Kung-ch’üan Hsiao,Hsiao,Kung-ch’üan,蕭公權,萧公权,蕭公權,0,0,Hsiao, Kung-ch’uan,0.0,0.0,0,0,10
+2745,Kung-chuan Hsiao,Hsiao,Kung-chuan,萧公权,萧公权,蕭公權,0,0,Hsiao, Kung-chuan,0.0,0.0,0,0,10
+2751,R. Po-chia Hsia,Hsia,R. Po-chia,夏伯嘉,夏伯嘉,夏伯嘉,0,0,Hsia, R. Po-chia,0.0,0.0,0,0,10
+2752,Ronnie Po-chia Hsia,Hsia,Ronnie Po-chia,夏伯嘉,夏伯嘉,夏伯嘉,0,0,Hsia, Ronnie Po-chia,0.0,0.0,0,0,10
+2780,David B. Honey,Honey,David B.,韩大伟,韩大伟,韓大偉,0,0,Honey, David B.,0.0,0.0,0,0,20
+2781,David B. Honey,Honey,David B.,韩大伟,韩大伟,韓大偉,0,0,Honey,David B.,0.0,0.0,0,0,10
+2785,Donald Holzman,Holzman,Donald,侯思孟,侯思孟,侯思孟,0,0,Holzman, Donald,0.0,0.0,0,0,20
+2786,Donald Holzman,Holzman,Donald,侯思孟,侯思孟,侯思孟,0,0,Holzman,Donald,1926.0,0.0,德裔,0,10
+2821,Michael Hill,Hill,Michael,韩嵩文,韩嵩文,韓嵩文,0,0,Hill, Michael,0.0,0.0,0,0,10
+2822,Michael Gibbs Hill,Hill,Michael Gibbs,韓嵩文,韩嵩文,韓嵩文,0,0,Hill, Michael Gibbs,0.0,0.0,0,0,10
+2823,James Hightower,Hightower,James,海陶瑋,海陶玮,海陶瑋,0,0,Hightower, James,0.0,0.0,0,0,10
+2824,James R. Hightower,Hightower,James R.,海陶玮,海陶玮,海陶瑋,0,0,Hightower, James R.,0.0,0.0,0,0,10
+2825,James R. Hightower,Hightower,James R.,海陶玮,海陶玮,海陶瑋,0,0,Hightower,James R.,1915.0,2006.0,美国,0,10
+2826,Roland Higgins,Higgins,Roland,罗兰,罗兰,羅蘭,0,0,Higgins, Roland,0.0,0.0,0,0,10
+2827,Roland L. Higgins,Higgins,Roland L.,羅蘭,罗兰,羅蘭,0,夏樂南,Higgins, Roland L.,0.0,0.0,0,0,10
+2830,James Hevia,Hevia,James,何偉亞,何伟亚,何偉亞,0,0,Hevia, James,0.0,0.0,0,0,10
+2831,James L． Hevia,Hevia,James L．,何伟亚,何伟亚,何偉亞,0,0,Hevia, James L.,0.0,0.0,0,0,10
+2846,John Herman,Herman,John,何漢德,何汉德,何漢德,0,0,Herman, John,0.0,0.0,0,0,10
+2847,John E. Herman,Herman,John E.,何汉德,何汉德,何漢德,0,0,Herman, John E.,0.0,0.0,0,0,10
+2858,Gail E Henderson,Henderson,Gail E,韩德森,韩德森,韓德森,0,0,Henderson, Gail E,0.0,0.0,0,0,10
+2859,Gail E. Henderson,Henderson,Gail E.,韓德森,韩德森,韓德森,0,0,Henderson, Gail E.,0.0,0.0,0,0,10
+2869,Robert Hegel,Hegel,Robert,何谷理,何谷理,何谷理,0,0,Hegel, Robert,0.0,0.0,0,0,10
+2870,Robert E. Hegel,Hegel,Robert E.,何穀理,何谷理,何穀理,0,0,Hegel, Robert E.,0.0,0.0,0,0,10
+2879,Charles W. Hayford,Hayford,Charles W.,何復德,何复德,何復德,0,0,Hayford, Charles W.,0.0,0.0,0,0,10
+2880,Charles W. Hayford,Hayford,Charles W.,何複德,何复德,何複德,0,0,Hayford, Charles W.,0.0,0.0,0,0,10
+2904,Don Harper,Harper,Don,夏德安,夏德安,夏德安,0,0,Harper,Don,0.0,0.0,0,0,10
+2905,Donald Harper,Harper,Donald,夏德安,夏德安,夏德安,0,0,Harper, Donald,0.0,0.0,0,0,20
+2911,Christoph Harbsmeier,Harbsmeier,Christoph,何莫邪,何莫邪,何莫邪,0,0,Harbsmeier, Christoph,0.0,0.0,0,0,20
+2912,Christoph Harbsmeier,Harbsmeier,Christoph,何莫邪,何莫邪,何莫邪,0,0,Harbsmeier,Christoph,0.0,0.0,0,0,10
+2913,Rick Harbaugh,Harbaugh,Rick,李克,李克,李克,0,0,Harbaugh, Rick,0.0,0.0,0,0,10
+2919,Chad Hansen,Hansen,Chad,陈汉生,陈汉生,陳漢生,0,0,Hansen,Chad,0.0,0.0,0,0,10
+2920,Chad Hansen,Hansen,Chad,陳漢生,陈汉生,陳漢生,0,0,Hansen, Chad,0.0,0.0,0,0,10
+2922,Valarie Hansen,Hansen,Valarie,韩森,韩森,韓森,0,0,Hansen, Valarie,0.0,0.0,0,0,10
+2923,Valerie Hansen,Hansen,Valerie,韓森,韩森,韓森,0,0,Hansen, Valerie,0.0,0.0,0,0,10
+2946,Mark Halperin,Halperin,Mark,何复平,何复平,何復平,0,0,Halperin, Mark,0.0,0.0,0,0,10
+2947,Mark Halperin,Halperin,Mark,何複平,何复平,何複平,0,0,Halperin, Mark,0.0,0.0,0,0,10
+2951,David Hall,Hall,David,郝大维,郝大维,郝大維,0,0,Hall, David,0.0,0.0,0,0,10
+2952,David L. Hall,Hall,David L.,郝大维,郝大维,郝大維,0,0,Hall,David L.,1937.0,2001.0,美国,0,10
+2958,Barend J. ter Haar,Haar,Barend J. ter,田海,田海,田海,0,0,Haar, Barend J. ter,0.0,0.0,0,0,10
+2959,Barend ter Haar,Haar,Barend ter,田海,田海,田海,0,0,Haar, Barend ter,0.0,0.0,0,0,10
+2961,Bennett Gwen,Gwen,Bennett,關玉琳,关玉琳,關玉琳,0,0,Gwen, Bennett,0.0,0.0,0,0,10
+2964,R. Kent Guy,Guy,R. Kent,盖博坚,盖博坚,蓋博堅,0,0,Guy, R. Kent,0.0,0.0,0,0,10
+2965,R．Kent Guy,Guy,R．Kent,蓋博堅,盖博坚,蓋博堅,0,0,Guy,R.Kent,0.0,0.0,0,0,10
+2970,Edward M. Gunn,Gunn,Edward M.,耿德华,耿德华,耿德華,0,0,Gunn, Edward M.,0.0,0.0,0,0,10
+2971,Edward Mansfield Gunn,Gunn,Edward Mansfield,耿德華,耿德华,耿德華,0,0,Gunn, Edward Mansfield,0.0,0.0,0,0,10
+2972,Robert Hans van Gulik,Gulik,Robert Hans van,高罗佩,高罗佩,高羅佩,0,0,Gulik, Robert Hans van,0.0,0.0,0,0,20
+2973,Gregory E. Guldin,Guldin,Gregory E.,顾定国,顾定国,顧定國,0,0,Guldin, Gregory E.,0.0,0.0,0,0,10
+2974,Gregory E. Guldin,Guldin,Gregory E.,顧定國,顾定国,顧定國,0,0,Guldin,Gregory E.,0.0,0.0,0,0,10
+2975,R. W. L. Guisso,Guisso,R. W. L.,桂雨时,桂雨时,桂雨時,0,0,Guisso, R. W. L.,0.0,0.0,0,0,10
+2976,R. W. L. Guisso,Guisso,R. W. L.,桂雨時,桂雨时,桂雨時,0,0,Guisso,R. W. L.,0.0,0.0,0,0,10
+2981,Manli Gu,Gu,Manli,顧曼莉,顾曼莉,顧曼莉,0,0,Gu, Manli,0.0,0.0,0,0,10
+2982,Ming Dong Gu,Gu,Ming Dong,顾明栋,顾明栋,顧明棟,0,0,Gu, Ming Dong,0.0,0.0,0,0,20
+2983,Ming Dong Gu,Gu,Ming Dong,顾明栋,顾明栋,顧明棟,0,0,Gu,Ming Dong,1955.0,0.0,美籍华裔,0,10
+2992,J.J.M. de Groot,Groot,J.J.M. de,高延,高延,高延,0,0,Groot, J.J.M. de,0.0,0.0,0,0,10
+2993,Jan Jakob Maria Groot,Groot,Jan Jakob Maria,高延,高延,高延,0,0,Groot, Jan Jakob Maria,0.0,0.0,0,0,10
+3005,A. C. Graham,Graham,A. C.,葛瑞汉,葛瑞汉,葛瑞漢,Angus C. Graham,0,Graham,A. C.,1919.0,1991.0,英国,0,12
+3006,Angus C. Graham,Graham,Angus C.,葛瑞漢,葛瑞汉,葛瑞漢,0,0,Graham, Angus C.,0.0,0.0,0,0,10
+3010,Graham Graffin,Graffin,Graham,葛瑞汉,葛瑞汉,葛瑞漢, Angus C. Graham,0,Graffin, Graham,0.0,0.0,0,0,10
+3011,David Graff,Graff,David,高理寧,高理宁,高理寧,0,0,Graff,David,0.0,0.0,0,0,10
+3017,Olga Gorodetskaya,Gorodetskaya,Olga,郭靜雲,郭静云,郭靜雲,0,0,Gorodetskaya, Olga,0.0,0.0,0,0,10
+3019,Leonard H.D. Gordon,Gordon,Leonard H.D.,高理宁,高理宁,高理寧,0,0,Gordon, Leonard H.D.,0.0,0.0,0,0,10
+3020,Leonard H.D. Gordon,Gordon,Leonard H.D.,高理寧,高理宁,高理寧,0,0,Gordon,Leonard H.D.,0.0,0.0,0,0,10
+3027,Howard Goodman,Goodman,Howard,顾浩华,顾浩华,顧浩華,0,0,Goodman,Howard,0.0,0.0,0,0,10
+3028,Howard L. Goodman,Goodman,Howard L.,顾浩华,顾浩华,顧浩華,0,0,Goodman, Howard L.,0.0,0.0,0,0,10
+3029,Howard L. Goodman,Goodman,Howard L.,顧浩華,顾浩华,顧浩華,0,0,Goodman,Howard L.,0.0,0.0,0,0,10
+3033,Luis O. Gómez,Gómez,Luis O.,葛美茲,葛美兹,葛美茲,0,0,Gomez,Luis O.,0.0,0.0,0,0,10
+3034,Luis O. Gómez,Gómez,Luis O.,葛美兹,葛美兹,葛美茲,0,0,Gomez, Luis O.,0.0,0.0,0,0,10
+3037,Avery Goldstein,Goldstein,Avery,金骏远,金骏远,金駿遠,0,0,Goldstein, Avery,0.0,0.0,0,0,10
+3038,Avery Goldstein,Goldstein,Avery,金駿遠,金骏远,金駿遠,0,0,Goldstein,Avery,0.0,0.0,0,0,10
+3040,Asaf Goldschmidt,Goldschmidt,Asaf,郭志松,郭志松,郭志松,0,0,Goldschmidt, Asaf,0.0,0.0,0,0,10
+3041,Asaf Goldschmidt,Goldschmidt,Asaf,郭志松,郭志松,郭志松,0,0,Goldschmidt,Asaf,0.0,0.0,0,0,10
+3042,Andrea Goldman,Goldman,Andrea,郭安瑞,郭安瑞,郭安瑞,0,0,Goldman, Andrea,0.0,0.0,0,0,10
+3043,Andrea Goldman,Goldman,Andrea,郭安瑞,郭安瑞,郭安瑞,0,0,Goldman,Andrea,0.0,0.0,0,0,10
+3044,Paul R. Goldin,Goldin,Paul R.,金鹏程,金鹏程,金鵬程,0,0,Goldin, Paul R.,0.0,0.0,0,0,20
+3045,Paul R. Goldin,Goldin,Paul R.,金鹏程,金鹏程,金鵬程,Paul Rakita Goldin,0,Goldin,Paul R.,0.0,0.0,0,0,13
+3047,Howard Goldblatt,Goldblatt,Howard,葛浩文,葛浩文,葛浩文,0,0,Goldblatt, Howard,0.0,0.0,0,0,10
+3048,Howard Goldblatt,Goldblatt,Howard,葛浩文,葛浩文,葛浩文,0,0,Goldblatt,Howard,0.0,0.0,0,0,10
+3055,Richard von Glahn,Glahn,Richard von,萬志英,万志英,萬志英,0,0,Glahn, Richard von,0.0,0.0,0,0,10
+3056,Dru Gladney,Gladney,Dru,杜磊,杜磊,杜磊,0,0,Gladney, Dru,0.0,0.0,0,0,10
+3057,Dru C. Gladney,Gladney,Dru C.,杜磊,杜磊,杜磊,0,0,Gladney, Dru C.,0.0,0.0,0,0,10
+3070,Annick Gijsbers,Gijsbers,Annick,安妮,安妮,安妮,0,0,Gijsbers, Annick,0.0,0.0,0,0,10
+3075,Donald A. Gibbs,Gibbs,Donald A.,季博思,季博思,季博思,0,0,Gibbs, Donald A.,0.0,0.0,0,0,10
+3076,Donald A. Gibbs,Gibbs,Donald A.,季博思,季博思,季博思,0,0,Gibbs,Donald A.,0.0,0.0,0,0,10
+3079,Daniel A. Getz,Getz,Daniel A.,高泽民,高泽民,高澤民,0,0,Getz, Daniel A.,0.0,0.0,0,0,10
+3080,Daniel A. Getz,Getz,Daniel A.,高澤民,高泽民,高澤民,0,0,Getz,Daniel A.,0.0,0.0,0,0,10
+3083,Anne Gerritsen,Gerritsen,Anne,何安娜,何安娜,何安娜,0,0,Gerritsen, Anne,0.0,0.0,0,0,10
+3084,Anne Gerritsen,Gerritsen,Anne,何安娜,何安娜,何安娜,0,0,Gerritsen,Anne,0.0,0.0,0,0,10
+3103,Bai Gao,Gao,Bai,高柏,高柏,高柏,0,0,Gao, Bai,0.0,0.0,0,0,20
+3111,Mary Gallagher,Gallagher,Mary,高敏,高敏,高敏,0,0,Gallagher, Mary,0.0,0.0,0,0,10
+3112,Mary Gallagher,Gallagher,Mary,高敏,高敏,高敏,0,0,Gallagher,Mary,0.0,0.0,0,0,10
+3120,W. Chad Futrell,Futrell,W. Chad,傅強,傅强,傅強,0,0,Futrell, W. Chad,0.0,0.0,0,0,10
+3122,Charlotte Furth,Furth,Charlotte,费侠莉,费侠莉,費俠莉,0,0,Furth, Charlotte,0.0,0.0,0,0,10
+3123,Charlotte Furth,Furth,Charlotte,費俠莉,费侠莉,費俠莉,0,0,Furth,Charlotte,0.0,0.0,0,0,10
+3125,Edmund Fung,Fung,Edmund,馮兆基,冯兆基,馮兆基,0,0,Fung, Edmund,0.0,0.0,0,0,10
+3126,Edwin Fung,Fung,Edwin,冯兆基,冯兆基,馮兆基,0,0,Fung, Edwin,0.0,0.0,0,0,10
+3127,Yiu-ming Fung,Fung,Yiu-ming,冯耀明,冯耀明,馮耀明,0,0,Fung,Yiu-ming,0.0,0.0,0,0,10
+3128,Yiu-ming Fung,Fung,Yiu-ming,馮耀明,冯耀明,馮耀明,0,0,Fung, Yiu-ming,0.0,0.0,0,0,10
+3143,Qiang Fu,Fu,Qiang,傅強,傅强,傅強,0,0,Fu, Qiang,0.0,0.0,0,0,10
+3157,Davis Fraser,Fraser,Davis,傅睿哲,傅睿哲,傅睿哲,0,0,Fraser, Davis,0.0,0.0,0,0,10
+3158,Davis Fraser,Fraser,Davis,傅睿哲,傅睿哲,傅睿哲,0,0,Fraser,Davis,0.0,0.0,0,0,10
+3159,Sarah E. Fraser,Fraser,Sarah E.,胡素馨,胡素馨,胡素馨,0,0,Fraser, Sarah E.,0.0,0.0,0,0,10
+3160,Sarah E. Fraser,Fraser,Sarah E.,胡素馨,胡素馨,胡素馨,0,0,Fraser,Sarah E.,0.0,0.0,0,0,10
+3161,Hans Hermann Fränkel,Fränkel,Hans Hermann,傅漢思,傅汉思,傅漢思,0,0,Frankel, Hans Hermann,0.0,0.0,0,0,10
+3162,Hans H. Frankel,Frankel,Hans H.,傅汉思,傅汉思,傅漢思,0,0,Frankel, Hans H.,0.0,0.0,0,0,10
+3181,Achim Fock,Fock,Achim,傅安恒,傅安恒,傅安恆,0,0,Fock, Achim,0.0,0.0,0,0,10
+3182,Achim Fock,Fock,Achim,傅安恒,傅安恒,傅安恒,0,0,Fock, Achim,0.0,0.0,0,0,10
+3185,Joseph Fletcher,Fletcher,Joseph,傅礼初,傅礼初,傅禮初,0,弗雷泽,Fletcher, Joseph,0.0,0.0,0,0,10
+3186,Joseph Fletcher,Fletcher,Joseph,傅禮初,傅礼初,傅禮初,0, 弗雷澤,Fletcher,Joseph,0.0,0.0,0,0,10
+3188,Rowan K. Flad,Flad,Rowan K.,傅罗文,傅罗文,傅羅文,0,0,Flad, Rowan K.,0.0,0.0,0,0,10
+3189,Rowan K. Flad,Flad,Rowan K.,傅羅文,傅罗文,傅羅文,0,0,Flad,Rowan K.,0.0,0.0,0,0,10
+3198,Paul Fischer,Fischer,Paul,方破,方破,方破,0,0,Fischer, Paul,0.0,0.0,0,0,20
+3199,Paul Fischer,Fischer,Paul,方破,方破,方破,0,0,Fischer,Paul,0.0,0.0,0,0,10
+3219,Daniel Lee Ferguson,Ferguson,Daniel Lee,傅謌森,傅謌森,傅謌森,0,0,Ferguson, Daniel Lee,0.0,0.0,0,0,10
+3220,Daniel Lee Ferguson,Ferguson,Daniel Lee,傅謌森,傅謌森,傅謌森,0,0,Ferguson,Daniel Lee,0.0,0.0,0,0,10
+3221,Francesca Ferguson,Ferguson,Francesca,白卓诗,白卓诗,白卓詩,0,0,Ferguson, Francesca,0.0,0.0,0,0,10
+3222,Francesca Ferguson,Ferguson,Francesca,白卓詩,白卓诗,白卓詩,0,0,Ferguson,Francesca,0.0,0.0,0,0,10
+3232,James V. Feinerman,Feinerman,James V.,费能文,费能文,費能文,0,0,Feinerman, James V.,0.0,0.0,0,0,10
+3233,James V. Feinerman,Feinerman,James V.,費能文,费能文,費能文,0,0,Feinerman,James V.,0.0,0.0,0,0,10
+3244,James Farrer,Farrer,James,刘雅格,刘雅格,劉雅格,0,0,Farrer, James,0.0,0.0,0,0,10
+3245,James Farrer,Farrer,James,劉雅格,刘雅格,劉雅格,0,0,Farrer,James,0.0,0.0,0,0,10
+3247,Judith Farquhar,Farquhar,Judith,馮珠娣,冯珠娣,馮珠娣,0,0,Farquhar, Judith,0.0,0.0,0,0,10
+3248,Judith B. Farquhar,Farquhar,Judith B.,冯珠娣,冯珠娣,馮珠娣,0,0,Farquhar, Judith B.,0.0,0.0,0,0,10
+3251,Achilles Fang,Fang,Achilles,方志彤,方志彤,方誌彤,0,0,Fang, Achilles,0.0,0.0,0,0,10
+3252,Achilles Fang,Fang,Achilles,方志彤,方志彤,方志彤,0,0,Fang, Achilles,0.0,0.0,0,0,10
+3254,Cheng-Hua Fang,Fang,Cheng-Hua,方震华,方震华,方震華,0,0,Fang, Cheng-Hua,0.0,0.0,0,0,10
+3255,Cheng-Hua Fang,Fang,Cheng-Hua,方震華,方震华,方震華,0,0,Fang,Cheng-Hua,0.0,0.0,0,0,10
+3266,Lothar von Falkenhausen,Falkenhausen,Lothar von,羅泰,罗泰,羅泰,0,0,Falkenhausen, Lothar von,0.0,0.0,0,0,10
+3268,John King Fairbank,Fairbank,John King,费正清,费正清,費正清,0,0,Fairbank, John King,0.0,0.0,0,0,20
+3269,John King Fairbank,Fairbank,John King,费正清,费正清,費正清,0,0,Fairbank,John King,0.0,0.0,0,0,10
+3279,Joseph Esherick,Esherick,Joseph,周锡瑞,周锡瑞,周錫瑞,0,0,Esherick, Joseph,0.0,0.0,0,0,10
+3280,Joseph Wharton Esherick,Esherick,Joseph Wharton,周錫瑞,周锡瑞,周錫瑞,0,0,Esherick, Joseph Wharton,0.0,0.0,0,0,10
+3282,Kathleen Erwin,Erwin,Kathleen,区嘉琳,区嘉琳,區嘉琳,0,0,Erwin, Kathleen,0.0,0.0,0,0,10
+3283,Kathleen Erwin,Erwin,Kathleen,區嘉琳,区嘉琳,區嘉琳,0,0,Erwin,Kathleen,0.0,0.0,0,0,10
+3287,Mary Erbaugh,Erbaugh,Mary,艾玛丽,艾玛丽,艾瑪麗,0,0,Erbaugh, Mary,0.0,0.0,0,0,10
+3288,Mary S. Erbaugh,Erbaugh,Mary S.,艾瑪麗,艾玛丽,艾瑪麗,0,0,Erbaugh, Mary S.,0.0,0.0,0,0,10
+3302,Benjamin Elman,Elman,Benjamin,艾爾曼,艾尔曼,艾爾曼,0,0,Elman, Benjamin,0.0,0.0,0,0,10
+3303,Benjamin A. Elman,Elman,Benjamin A.,艾尔曼,艾尔曼,艾爾曼,0,0,Elman, Benjamin A.,0.0,0.0,0,0,10
+3306,Mark C. Elliott,Elliott,Mark C.,歐立德,欧立德,歐立德,0,0,Elliott, Mark C.,0.0,0.0,0,0,10
+3307,Mark Elliot,Elliot,Mark,欧立德,欧立德,歐立德,0,0,Elliot, Mark,0.0,0.0,0,0,10
+3312,Joshua Eisenman,Eisenman,Joshua,馬佳士,马佳士,馬佳士,0,0,Eisenman, Joshua,0.0,0.0,0,0,10
+3313,Joshua. Eisenman,Eisenman,Joshua.,马佳士,马佳士,馬佳士,0,0,Eisenman, Joshua.,0.0,0.0,0,0,10
+3314,Andrew Eisenberg,Eisenberg,Andrew,艾安迪,艾安迪,艾安迪,0,0,Eisenberg, Andrew,0.0,0.0,0,0,10
+3315,Andrew Eisenberg,Eisenberg,Andrew,艾安迪,艾安迪,艾安迪,0,0,Eisenberg,Andrew,0.0,0.0,0,0,10
+3318,Elling Eide,Eide,Elling,艾龙,艾龙,艾龍,0,0,Eide,Elling,0.0,0.0,0,0,10
+3319,Elling O. Eide,Eide,Elling O.,艾龙,艾龙,艾龍,0,0,Eide, Elling O.,0.0,0.0,0,0,10
+3325,Charles Egan,Egan,Charles,易彻理,易彻理,易徹理,0,0,Egan, Charles,0.0,0.0,0,0,10
+3326,Charles Egan,Egan,Charles,易徹理,易彻理,易徹理,0,0,Egan,Charles,0.0,0.0,0,0,10
+3328,Susan Chan Egan,Egan,Susan Chan,陈毓贤,陈毓贤,陳毓賢,0,0,Egan, Susan Chan,0.0,0.0,0,0,10
+3329,Susan Chan Egan,Egan,Susan Chan,陈毓贤,陈毓贤,陳毓賢,0,0,Egan,Susan Chan,0.0,0.0,菲律宾华侨,0,20
+3331,Robert Efird,Efird,Robert,易若鹏,易若鹏,易若鵬,0,0,Efird, Robert,0.0,0.0,0,0,10
+3332,Robert Efird,Efird,Robert,易若鵬,易若鹏,易若鵬,0,0,Efird,Robert,0.0,0.0,0,0,10
+3333,Louise P. Edwards,Edwards,Louise P.,李木兰,李木兰,李木蘭,0,0,Edwards, Louise P.,0.0,0.0,0,0,10
+3334,Louise P. Edwards,Edwards,Louise P.,李木蘭,李木兰,李木蘭,0,0,Edwards,Louise P.,0.0,0.0,0,0,10
+3335,R. Randle Edwards,Edwards,R. Randle,艾德华,艾德华,艾德華,0,爱德华、爱德华兹,Edwards, R. Randle,0.0,0.0,0,0,10
+3336,R. Randle Edwards,Edwards,R. Randle,艾德華,艾德华,艾德華,0, 愛德華  、 愛德華茲,Edwards,R. Randle,0.0,0.0,0,0,10
+3340,Maria Edin,Edin,Maria,金山爱,金山爱,金山愛,0,0,Edin, Maria,0.0,0.0,0,0,10
+3341,Maria Edin,Edin,Maria,金山愛,金山爱,金山愛,0,0,Edin,Maria,0.0,0.0,0,0,10
+3346,Alexander Eckstein,Eckstein,Alexander,艾伯華,艾伯华,艾伯華,0,0,Eckstein,Alexander,0.0,0.0,0,0,10
+3350,Wolfram Eberhard,Eberhard,Wolfram,艾伯华,艾伯华,艾伯華,0,0,Eberhard, Wolfram,0.0,0.0,0,0,20
+3352,Lloyd E. Eastman,Eastman,Lloyd E.,易劳逸,易劳逸,易勞逸,0,0,Eastman, Lloyd E.,0.0,0.0,0,0,10
+3353,Lloyd E. O. Eastman,Eastman,Lloyd E. O.,易勞逸,易劳逸,易勞逸,0,0,Eastman, Lloyd E. O.,0.0,0.0,0,0,10
+3357,J. J. L. Duyvendak,Duyvendak,J. J. L.,戴闻达,戴闻达,戴聞達,0,0,Duyvendak, J. J. L.,0.0,0.0,0,0,10
+3358,J.J.L. Duyvendak,Duyvendak,J.J.L.,戴聞達,戴闻达,戴聞達,0,0,Duyvendak, J.J.L.,0.0,0.0,0,0,10
+3360,Stephen Durrant,Durrant,Stephen,杜润德,杜润德,杜潤德,0,0,Durrant,Stephen,0.0,0.0,0,0,10
+3361,Stephen W. Durrant,Durrant,Stephen W.,杜潤德,杜润德,杜潤德,0,0,Durrant, Stephen W.,0.0,0.0,0,0,10
+3362,Stephen W. Durant,Durant,Stephen W.,杜润德,杜润德,杜潤德,0,0,Durant, Stephen W.,0.0,0.0,0,0,10
+3372,Homer H. Dubs,Dubs,Homer H.,德效骞,德效骞,德效騫,0,0,Dubs, Homer H.,0.0,0.0,0,0,20
+3373,Homer H. Dubs,Dubs,Homer H.,德效骞,德效骞,德效騫,0,0,Dubs,Homer H.,1892.0,1969.0,美国,儒莲奖。曾随父母到中国传教。,12
+3374,Thomas DuBois,DuBois,Thomas,杜博思,杜博思,杜博思,0,0,DuBois, Thomas,0.0,0.0,0,0,10
+3375,Thomas David DuBois,DuBois,Thomas David,杜博思,杜博思,杜博思,0,0,DuBois, Thomas David,0.0,0.0,0,0,10
+3383,June T. Dreyer,Dreyer,June T.,金德芳,金德芳,金德芳,0,0,Dreyer, June T.,0.0,0.0,0,0,10
+3384,June Teufel Dreyer,Dreyer,June Teufel,金德芳,金德芳,金德芳,0,0,Dreyer, June Teufel,0.0,0.0,0,0,10
+3390,Madeleine Yue Dong,Dong,Madeleine Yue,董玥,董玥,董玥,0,0,Dong, Madeleine Yue,0.0,0.0,0,0,10
+3391,Madeliene Yue Dong,Dong,Madeliene Yue,董玥,董玥,董玥,0,0,Dong, Madeliene Yue,0.0,0.0,0,0,10
+3426,Kirk Denton,Denton,Kirk,邓腾克,邓腾克,鄧騰克,0,0,Denton, Kirk,0.0,0.0,0,0,10
+3427,Kirk Alexander Denton,Denton,Kirk Alexander,鄧騰克,邓腾克,鄧騰克,0,0,Denton, Kirk Alexander,0.0,0.0,0,0,10
+3428,Joe Dennis,Dennis,Joe,戴思哲,戴思哲,戴思哲,0,0,Dennis, Joe,0.0,0.0,0,0,10
+3429,Joseph Dennis,Dennis,Joseph,戴思哲,戴思哲,戴思哲,0,0,Dennis, Joseph,0.0,0.0,0,0,10
+3432,Weibke Denecke,Denecke,Weibke,魏朴和,魏朴和,魏樸和,0,0,Denecke,Weibke,0.0,0.0,0,0,10
+3433,Wiebke Denecke,Denecke,Wiebke,魏樸和,魏朴和,魏樸和,0,0,Denecke, Wiebke,0.0,0.0,0,0,10
+3438,Jacques deLisle,deLisle,Jacques,戴杰,戴杰,戴傑,0,0,deLisle, Jacques,0.0,0.0,0,0,10
+3439,Jacques Delisle,Delisle,Jacques,戴傑,戴杰,戴傑,0,0,Delisle, Jacques,0.0,0.0,0,0,10
+3457,Igor De Rachewiltz,De Rachewiltz,Igor,罗依果,罗依果,羅依果,0,0,De Rachewiltz, Igor,0.0,0.0,0,0,30
+3458,Christian De Pee,De Pee,Christian,裴志昂,裴志昂,裴志昂,0,0,De Pee, Christian,0.0,0.0,0,0,10
+3459,Christian De Pee,De Pee,Christian,裴志昂,裴志昂,裴志昂,0,0,De Pee,Christian,0.0,0.0,0,0,10
+3462,W. T. de Bary,de Bary,W. T.,狄百瑞,狄百瑞,狄百瑞,0,0,de Bary,W. T.,0.0,0.0,0,0,12
+3463,William Theodore De Bary,De Bary,William Theodore,狄百瑞,狄百瑞,狄百瑞,0,狄别瑞,De Bary, William Theodore,0.0,0.0,0,0,20
+3482,Weiqun Dai,Dai,Weiqun,戴为群,戴为群,戴爲羣,0,0,Dai, Weiqun,0.0,0.0,0,0,10
+3483,Weiqun Dai,Dai,Weiqun,戴為群,戴为群,戴為羣,0,0,Dai, Weiqun,0.0,0.0,0,0,10
+3492,Robert Culp,Culp,Robert,高哲一,高哲一,高哲一,0,0,Culp, Robert,0.0,0.0,0,0,10
+3493,Robert J. Culp,Culp,Robert J.,高哲一,高哲一,高哲一,0,0,Culp, Robert J.,0.0,0.0,0,0,10
+3494,Christopher Cullen,Cullen,Christopher,古克礼,古克礼,古克禮,0,0,Cullen, Christopher,0.0,0.0,0,0,10
+3495,Christopher Cullen,Cullen,Christopher,古克礼,古克礼,古克禮,0,0,Cullen,Christopher,0.0,0.0,0,0,10
+3499,Antonio S. Cua,Cua,Antonio S.,柯雄文,柯雄文,柯雄文,0,0,Cua, Antonio S.,0.0,0.0,0,0,10
+3500,Antonio S. Cua,Cua,Antonio S.,柯雄文,柯雄文,柯雄文,0,0,Cua,Antonio S.,1932.0,2007.0,中国菲律宾混血,0,13
+3501,Mark Csikszentmihalyi,Csikszentmihalyi,Mark,齊思敏,齐思敏,齊思敏,0,0,Csikszentmihalyi, Mark,0.0,0.0,0,0,10
+3502,Mark A. Csikszentmihalyi,Csikszentmihalyi,Mark A.,齐思敏,齐思敏,齊思敏,0,0,Csikszentmihalyi, Mark A.,0.0,0.0,0,0,10
+3505,William G. Crowell,Crowell,William G.,孔为廉,孔为廉,孔爲廉,0,0,Crowell, William G.,0.0,0.0,0,0,10
+3506,William G. Crowell,Crowell,William G.,孔為廉,孔为廉,孔為廉,0,0,Crowell, William G.,0.0,0.0,0,0,10
+3508,Pamala K. Crossley,Crossley,Pamala K.,柯娇燕,柯娇燕,柯嬌燕,0,0,Crossley, Pamala K.,0.0,0.0,0,0,10
+3509,Pamela Kyle Crossley,Crossley,Pamela Kyle,柯嬌燕,柯娇燕,柯嬌燕,0,0,Crossley, Pamela Kyle,0.0,0.0,0,0,10
+3516,Herlee G. Creel,Creel,Herlee G.,顾立雅,顾立雅,顧立雅,0,0,Creel,Herlee G.,0.0,0.0,0,0,10
+3517,Herrlee G. Creel,Creel,Herrlee G.,顾立雅,顾立雅,顧立雅,0,0,Creel, Herrlee G.,0.0,0.0,0,0,20
+3537,Scott Cook,Cook,Scott,顾史考,顾史考,顧史考,0,0,Cook, Scott,0.0,0.0,0,0,20
+3538,Scott Cook,Cook,Scott,顾史考,顾史考,顧史考,0,0,Cook,Scott,1964.0,0.0,0,0,12
+3550,Jerome A. Cohen,Cohen,Jerome A.,孔杰荣,孔杰荣,孔傑榮,0,柯恩,Cohen, Jerome A.,0.0,0.0,0,0,10
+3551,Jerome Alan Cohen,Cohen,Jerome Alan,孔傑榮,孔杰荣,孔傑榮,0, 柯恩,Cohen, Jerome Alan,0.0,0.0,0,0,10
+3555,Warren Cohen,Cohen,Warren,孔华润,孔华润,孔華潤,0,0,Cohen, Warren,0.0,0.0,0,0,10
+3556,Warren I. Cohen,Cohen,Warren I.,孔華潤,孔华润,孔華潤,0,0,Cohen, Warren I.,0.0,0.0,0,0,10
+3561,W. South Coblin,Coblin,W. South,柯蔚南,柯蔚南,柯蔚南,0,0,Coblin, W. South,0.0,0.0,0,0,20
+3562,W. South Coblin,Coblin,W. South,柯蔚南,柯蔚南,柯蔚南,0,0,Coblin,W. South,1944.0,0.0,0,0,10
+3581,Eva Yuen-wah Chung,Chung,Eva Yuen-wah,钟元华,钟元华,鍾元華,0,0,Chung, Eva Yuen-wah,0.0,0.0,0,0,10
+3582,Eva Yuen-wah Chung,Chung,Eva Yuen-wah,鐘元華,钟元华,鐘元華,0,0,Chung, Eva Yuen-wah,0.0,0.0,0,0,10
+3594,Pingyi Chu,Chu,Pingyi,祝平一,祝平一,祝平一,0,0,Chu, Pingyi,0.0,0.0,0,0,10
+3595,Ping-yi Chu,Chu,Ping-yi,祝平一,祝平一,祝平一,0,0,Chu, Ping-yi,0.0,0.0,0,0,10
+3603,Matthias Christian,Christian,Matthias,田默迪,田默迪,田默迪,0,0,Christian, Matthias,0.0,0.0,0,0,10
+3608,Kai-wing Chow,Chow,Kai-wing,周启荣,周启荣,周啓榮,0,0,Chow, Kai-wing,0.0,0.0,0,0,10
+3609,Kai-wing Chow,Chow,Kai-wing,周启荣,周启荣,周啟榮,0,0,Chow,Kai-wing,0.0,0.0,华裔,0,10
+3610,Kai-wing Chow,Chow,Kai-wing,周啟榮,周启荣,周啟榮,0,0,Chow, Kai-wing,0.0,0.0,0,0,10
+3613,Tse-tsung,Chow,Tse-t,周策纵,周策纵,周策縱,0,0,Chow,Tse-t,1916.0,2007.0,华裔,0,10
+3614,Tse-tsung Chow,Chow,Tse-tsung,周策纵,周策纵,周策縱,0,0,Chow, Tse-tsung,0.0,0.0,0,0,20
+3615,Adam Chou,Chou,Adam,周越,周越,周越,0,0,Chou, Adam,0.0,0.0,0,0,10
+3616,Chih-p’ing Chou,Chou,Chih-p’ing,周質平,周质平,周質平,0,0,Chou, Chih-p’ing,0.0,0.0,0,0,10
+3617,Chi-p’ing Chou,Chou,Chi-p’ing,周质平,周质平,周質平,0,0,Chou, Chi-p’ing,0.0,0.0,0,0,10
+3620,Hsun-hsin Chou,Chou,Hsun-hsin,周舜莘,周舜莘,周舜莘,0,0,Chou, Hsun-hsin,0.0,0.0,0,0,10
+3621,Hsun-hsin Chou,Chou,Hsun-hsin,周舜莘,周舜莘,周舜莘,0,0,Chou,Hsun-hsin,0.0,0.0,0,0,10
+3622,Ju-hsi Chou,Chou,Ju-hsi,周汝式,周汝式,周汝式,0,0,Chou, Ju-hsi,0.0,0.0,0,0,10
+3623,Ju-shi Chou,Chou,Ju-shi,周汝式,周汝式,周汝式,0,0,Chou, Ju-shi,0.0,0.0,0,0,10
+3625,Ping Chou,Chou,Ping,周平,周平,周平,0,0,Chou, Ping,0.0,0.0,0,0,10
+3626,Ping Chou,Chou,Ping,周平,周平,周平,0,0,Chou,Ping,0.0,0.0,0,0,10
+3627,Shun-hsin Chou,Chou,Shun-hsin,周舜莘,周舜莘,周舜莘,0,0,Chou, Shun-hsin,0.0,0.0,0,0,10
+3635,Kim-chong Chong,Chong,Kim-chong,庄锦章,庄锦章,莊錦章,0,0,Chong,Kim-chong,0.0,0.0,0,0,10
+3636,Kim-chong Chong,Chong,Kim-chong,莊錦章,庄锦章,莊錦章,0,0,Chong, Kim-chong,0.0,0.0,0,0,10
+3639,Wi-vun Taiffalo Chiung,Chiung,Wi-vun Taiffalo,蒋为文,蒋为文,蔣爲文,0,0,Chiung, Wi-vun Taiffalo,0.0,0.0,0,0,10
+3640,Wi-vun Taiffalo Chiung,Chiung,Wi-vun Taiffalo,蔣為文,蒋为文,蔣為文,0,0,Chiung, Wi-vun Taiffalo,0.0,0.0,0,0,10
+3662,Annping Chin,Chin,Annping,金安平,金安平,金安平,0,0,Chin, Annping,0.0,0.0,0,0,10
+3663,Annping Chin,Chin,Annping,金安平,金安平,金安平,0,0,Chin,Annping,1950.0,0.0,0,台湾出生。史景迁之妻。,10
+3722,Peter P. C. Cheng,Cheng,Peter P. C.,陳炳杞,陈炳杞,陳炳杞,0,0,Cheng, Peter P. C.,0.0,0.0,0,0,10
+3723,Peter P.C. Cheng,Cheng,Peter P.C.,陈炳杞,陈炳杞,陳炳杞,0,0,Cheng, Peter P.C.,0.0,0.0,0,0,10
+3739,Chi-yun Chen,Chen,Chi-yun,陈启云,陈启云,陳啓雲,0,0,Chen, Chi-yun,0.0,0.0,0,0,10
+3740,Chi-yun Chen,Chen,Chi-yun,陳啟雲,陈启云,陳啟雲,0,0,Chen, Chi-yun,0.0,0.0,0,0,10
+3761,Jie Chen,Chen,Jie,陈杰,陈杰,陳杰,0,0,Chen, Jie,0.0,0.0,0,0,10
+3762,Jie Chen,Chen,Jie,陳傑,陈杰,陳傑,0,0,Chen, Jie,0.0,0.0,0,0,10
+3780,Nai-ruem Chen,Chen,Nai-ruem,陳乃潤,陈乃润,陳乃潤,0,0,Chen, Nai-ruem,0.0,0.0,0,0,10
+3781,Nai-ruenn Chen,Chen,Nai-ruenn,陈乃润,陈乃润,陳乃潤,0,0,Chen, Nai-ruenn,0.0,0.0,0,0,10
+3816,Edouard Chavannes,Chavannes,Edouard,沙畹,沙畹,沙畹,0,0,Chavannes, Edouard,0.0,0.0,0,0,20
+3817,Edouard Chavannes,Chavannes,Edouard,沙畹,沙畹,沙畹,0,0,Chavannes,Edouard,0.0,0.0,0,0,10
+3818,Adam Chau,Chau,Adam,周越,周越,周越,0,0,Chau, Adam,0.0,0.0,0,0,10
+3819,Adam Yuet Chau,Chau,Adam Yuet,周越,周越,周越,0,0,Chau, Adam Yuet,0.0,0.0,0,0,10
+3833,Rulan Chao,Chao,Rulan,赵如兰,赵如兰,趙如蘭, Rulan Chao Pian,0,Chao, Rulan,0.0,0.0,0,0,20
+3842,Chen David Chang,Chang,Chen David,常成,常成,常成,0,0,Chang, Chen David,0.0,0.0,0,0,10
+3843,Cheng David Chang,Chang,Cheng David,常成,常成,常成,0,0,Chang, Cheng David,0.0,0.0,0,0,10
+3855,Hao Chang,Chang,Hao,张灏,张灏,張灝,0,0,Chang, Hao,0.0,0.0,0,0,10
+3856,Hao Chang,Chang,Hao,張灝,张灏,張灝,0,0,Chang,Hao,0.0,0.0,0,0,10
+3866,Kang-i Sun Chang,Chang,Kang-i Sun,孫康宜,孙康宜,孫康宜,0,0,Chang, Kang-i Sun,0.0,0.0,0,0,10
+3874,Parris H. Chang,Chang,Parris H.,張旭成,张旭成,張旭成,0,0,Chang, Parris H.,0.0,0.0,0,0,10
+3875,Parris Hsu-cheng Chang,Chang,Parris Hsu-cheng,张旭成,张旭成,張旭成,0,0,Chang, Parris Hsu-cheng,0.0,0.0,0,0,10
+3881,Teh-kuang Chang,Chang,Teh-kuang,張德光,张德光,張德光,0,0,Chang, Teh-kuang,0.0,0.0,0,0,10
+3882,The-kuang Chang,Chang,The-kuang,张德光,张德光,張德光,0,0,Chang, The-kuang,0.0,0.0,0,0,10
+3888,Alan K. Chan,Chan,Alan K.,陈金樑,陈金梁,陳金樑,0,0,Chan, Alan K.,0.0,0.0,0,0,10
+3889,Alan K. L. Chan,Chan,Alan K. L.,陈金梁,陈金梁,陳金梁,0,0,Chan,Alan K. L.,0.0,0.0,华裔,0,10
+3890,Alan K. L. Chan,Chan,Alan K. L.,陳金梁,陈金梁,陳金梁,0,0,Chan, Alan K. L.,0.0,0.0,0,0,10
+3906,Shirley Chan,Chan,Shirley,陈慧,陈慧,陳慧,0,0,Chan,Shirley,0.0,0.0,0,0,10
+3907,Shirley Chan,Chan,Shirley,陳慧,陈慧,陳慧,0,0,Chan, Shirley,0.0,0.0,0,0,10
+3912,Wing-tsit Chan,Chan,Wing-tsit,陈荣捷,陈荣捷,陳榮捷,0,0,Chan, Wing-tsit,0.0,0.0,0,0,20
+3913,Wing-tsit Chan,Chan,Wing-tsit,陈荣捷,陈荣捷,陳榮捷,0,0,Chan,Wing-tsit,0.0,0.0,0,0,12
+3921,Winberg Chai,Chai,Winberg,翟文伯,翟文伯,翟文伯,0,0,Chai, Winberg,0.0,0.0,0,0,10
+3922,Winberg Chai,Chai,Winberg,翟文伯,翟文伯,翟文伯,0,0,Chai,Winberg,0.0,0.0,华裔,翟楚之子,10
+3923,John Chaffee,Chaffee,John,賈志揚,贾志扬,賈志揚,0,0,Chaffee, John,0.0,0.0,0,0,10
+3924,John W. Chaffee,Chaffee,John W.,贾志扬,贾志扬,賈志揚,0,0,Chaffee, John W.,0.0,0.0,0,0,10
+3935,Marco Ceresa,Ceresa,Marco,馬克,马克,馬克,0,0,Ceresa, Marco,0.0,0.0,0,0,10
+3976,David C. Buxbaum,Buxbaum,David C.,包恒,包恒,包恆,0,0,Buxbaum, David C.,0.0,0.0,0,0,10
+3977,David C. Buxbaum,Buxbaum,David C.,包恒,包恒,包恒,0,0,Buxbaum, David C.,0.0,0.0,0,0,10
+3983,Richard Bush,Bush,Richard,卜睿哲,卜睿哲,卜睿哲,0,0,Bush, Richard,0.0,0.0,0,0,10
+3984,Richard Bush,Bush,Richard,蔔睿哲,卜睿哲,蔔睿哲,0,0,Bush, Richard,0.0,0.0,0,0,10
+3988,John P. Burns,Burns,John P.,卜约翰,卜约翰,卜約翰,0,0,Burns, John P.,0.0,0.0,0,0,10
+3989,John Pond Burns,Burns,John Pond,蔔約翰,卜约翰,蔔約翰,0,0,Burns, John Pond,0.0,0.0,0,0,10
+3990,Katharine P. Burnett,Burnett,Katharine P.,陶幽庭,陶幽庭,陶幽庭,0,0,Burnett, Katharine P.,0.0,0.0,0,0,10
+3991,Katherine Burnett,Burnett,Katherine,陶幽庭,陶幽庭,陶幽庭,0,0,Burnett, Katherine,0.0,0.0,0,0,10
+3996,James Bunk,Bunk,James,博哲銘,博哲铭,博哲銘,0,0,Bunk, James,0.0,0.0,0,0,10
+4022,Timothy Brook,Brook,Timothy,卜正民,卜正民,卜正民,0,0,Brook, Timothy,0.0,0.0,0,0,10
+4023,Timothy Brook,Brook,Timothy,蔔正民,卜正民,蔔正民,0,0,Brook, Timothy,0.0,0.0,0,0,10
+4024,Cynthia Brokaw,Brokaw,Cynthia,包筠雅,包筠雅,包筠雅,0,0,Brokaw, Cynthia,0.0,0.0,0,0,10
+4025,Cynthia J. Brokaw,Brokaw,Cynthia J.,包筠雅,包筠雅,包筠雅,0,0,Brokaw, Cynthia J.,0.0,0.0,0,0,10
+4027,Roswell Britton,Britton,Roswell,白瑞華,白瑞华,白瑞華,0,0,Britton, Roswell,0.0,0.0,0,0,10
+4028,Roswell S. Britton,Britton,Roswell S.,白瑞华,白瑞华,白瑞華,0,0,Britton, Roswell S.,0.0,0.0,0,0,10
+4036,K. E. Brashier,Brashier,K. E.,白瑞旭,白瑞旭,白瑞旭,0,0,Brashier,K. E.,0.0,0.0,0,0,10
+4037,Kenneth E. Brashier,Brashier,Kenneth E.,白瑞旭,白瑞旭,白瑞旭,0,0,Brashier, Kenneth E.,0.0,0.0,0,0,20
+4038,David Branner,Branner,David,林德威,林德威,林德威,0,0,Branner, David,0.0,0.0,0,0,20
+4039,David Prager Branner,Branner,David Prager,林德威,林德威,林德威,0,0,Branner,David Prager,0.0,0.0,0,0,10
+4040,Susanne Brandtstadter,Brandtstadter,Susanne,白素珊,白素珊,白素珊,0,0,Brandtstadter, Susanne,0.0,0.0,0,0,20
+4041,Frederick W. Brandauer,Brandauer,Frederick W.,白保罗,白保罗,白保羅,0,0,Brandauer, Frederick W.,0.0,0.0,0,0,20
+4058,José Eugenio Borao Mateo,Borao Mateo,José Eugenio,鮑曉鷗,鲍晓鸥,鮑曉鷗,0,0,Borao Mateo, Jose Eugenio,0.0,0.0,0,0,10
+4059,Howard L. Boorman,Boorman,Howard L.,包华德,包华德,包華德,0,0,Boorman, Howard L.,0.0,0.0,0,0,10
+4060,Howard Lyon Boorman,Boorman,Howard Lyon,包華德,包华德,包華德,0,0,Boorman, Howard Lyon,0.0,0.0,0,0,10
+4061,Peter A. Boodberg,Boodberg,Peter A.,卜弼德,卜弼德,卜弼德,0,0,Boodberg, Peter A.,0.0,0.0,0,0,10
+4062,Peter A. Boodberg,Boodberg,Peter A.,蔔弼德,卜弼德,蔔弼德,0,0,Boodberg, Peter A.,0.0,0.0,0,0,10
+4064,James Bonk,Bonk,James,博哲銘,博哲铭,博哲銘,0,0,Bonk, James,0.0,0.0,0,0,10
+4067,Bill Boltz,Boltz,Bill,鲍则岳,鲍则岳,鮑則嶽,0,0,Boltz,Bill,0.0,0.0,0,0,10
+4068,Judith Boltz,Boltz,Judith,鲍菊隐,鲍菊隐,鮑菊隱,0,0,Boltz, Judith,0.0,0.0,0,0,10
+4069,Judith Magee Boltz,Boltz,Judith Magee,鮑菊隱,鲍菊隐,鮑菊隱,0,0,Boltz, Judith Magee,0.0,0.0,0,0,10
+4070,William G. Boltz,Boltz,William G.,鲍则岳,鲍则岳,鮑則嶽,0,0,Boltz, William G.,0.0,0.0,0,0,20
+4071,William G. Boltz,Boltz,William G.,鲍则岳,鲍则岳,鮑則嶽,0,0,Boltz,William G.,0.0,0.0,0,0,12
+4073,Stephen Bokenkamp,Bokenkamp,Stephen,柏夷,柏夷,柏夷,0,0,Bokenkamp, Stephen,0.0,0.0,0,0,10
+4074,Stephen R. Bokenkamp,Bokenkamp,Stephen R.,柏夷,柏夷,柏夷,0,0,Bokenkamp, Stephen R.,0.0,0.0,0,0,10
+4079,Derk Bodde,Bodde,Derk,卜德,卜德,蔔德,0,0,Bodde,Derk,0.0,0.0,0,0,10
+4080,Derk Bodde,Bodde,Derk,蔔德,卜德,蔔德,0,0,Bodde, Derk,0.0,0.0,0,0,10
+4085,Olga Blinova,Blinova,Olga,郭靜雲,郭静云,郭靜雲,0,0,Blinova, Olga,0.0,0.0,0,0,10
+4088,Charles Le Blanc,Blanc,Charles Le,白光华,白光华,白光華,0,0,Blanc, Charles Le,0.0,0.0,0,0,10
+4104,Jean François Billeter,Billeter,Jean François,毕来德,毕来德,畢來德,0,0,Billeter, Jean Francois,0.0,0.0,0,0,10
+4105,Jean-François Billeter,Billeter,Jean-François,畢來德,毕来德,畢來德,0,0,Billeter, Jean-Francois,0.0,0.0,0,0,10
+4122,John Berthrong,Berthrong,John,白诗朗,白诗朗,白詩朗,0,0,Berthrong, John,0.0,0.0,0,0,20
+4123,John Berthrong,Berthrong,John,白诗朗,白诗朗,白詩朗,0,0,Berthrong,John,0.0,0.0,0,0,10
+4129,Kathry Bernhardt,Bernhardt,Kathry,白凯,白凯,白凱,0,0,Bernhardt, Kathry,0.0,0.0,0,0,10
+4130,Kathryn Bernhardt,Bernhardt,Kathryn,白凱,白凯,白凱,0,0,Bernhardt, Kathryn,0.0,0.0,0,0,10
+4135,Judith Berling,Berling,Judith,柏士隱,柏士隐,柏士隱,0,0,Berling, Judith,0.0,0.0,0,0,10
+4136,Alan Berkowitz,Berkowitz,Alan,柏士隐,柏士隐,柏士隱,0,0,Berkowitz, Alan,0.0,0.0,0,0,20
+4142,Gregor Benton,Benton,Gregor,班国瑞,班国瑞,班國瑞,0,0,Benton , Gregor,0.0,0.0,0,0,10
+4143,Gregor Benton,Benton,Gregor,班國瑞,班国瑞,班國瑞,0,0,Benton, Gregor,0.0,0.0,0,0,10
+4144,Nielsen Bent,Bent,Nielsen,尼尔森,尼尔森,尼爾森,0,0,Bent, Nielsen,0.0,0.0,0,0,10
+4146,Gwen P. Bennett,Bennett,Gwen P.,关玉琳,关玉琳,關玉琳,0,0,Bennett, Gwen P.,0.0,0.0,0,0,20
+4147,James Benn,Benn,James,貝劍銘,贝剑铭,貝劍銘,0,0,Benn, James,0.0,0.0,0,0,10
+4148,James A. Benn,Benn,James A.,贝剑铭,贝剑铭,貝劍銘,0,0,Benn, James A.,0.0,0.0,0,0,10
+4149,Paul Benedict,Benedict,Paul,白保罗,白保罗,白保羅,0,0,Benedict, Paul,0.0,0.0,0,0,20
+4167,Bill Baxter,Baxter,Bill,白一平,白一平,白一平,Bill Baxter William H. III,0,Baxter, Bill,0.0,0.0,0,0,10
+4169,William H. Baxter,Baxter,William H.,白一平,白一平,白一平,0,0,Baxter,William H.,1949.0,0.0,0,0,10
+4170,William H. III Baxter,Baxter,William H. III,白一平,白一平,白一平,0,0,Baxter, William H. III,0.0,0.0,0,0,10
+4186,Arthur Doak Barnett,Barnett,Arthur Doak,鮑大可,鲍大可,鮑大可,0,0,Barnett, Arthur Doak,0.0,0.0,0,0,10
+4187,Doak Barnett,Barnett,Doak,鲍大可,鲍大可,鮑大可,0,0,Barnett, Doak,0.0,0.0,0,0,10
+4192,Tani Barlow,Barlow,Tani,白露,白露,白露,0,0,Barlow, Tani,0.0,0.0,0,0,10
+4193,Tani E. Barlow,Barlow,Tani E.,白露,白露,白露,0,0,Barlow, Tani E.,0.0,0.0,0,0,10
+4194,Platzerova Barbora,Barbora,Platzerova,林百合,林百合,林百合,0,0,Barbora, Platzerova,0.0,0.0,0,0,10
+4211,Timothy Baker,Baker,Timothy,貝克定,贝克定,貝克定,0,0,Baker, Timothy,0.0,0.0,0,0,10
+4212,Timothy D. Baker,Baker,Timothy D.,贝克定,贝克定,貝克定,0,0,Baker, Timothy D.,0.0,0.0,0,0,10
+4242,David Arkush,Arkush,David,欧达伟,欧达伟,歐達偉,0,0,Arkush, David,0.0,0.0,0,0,10
+4243,R. David Arkush,Arkush,R. David,歐達偉,欧达伟,歐達偉,0,0,Arkush, R. David,0.0,0.0,0,0,10
+4249,Stephen Angle,Angle,Stephen,安靖如,安靖如,安靖如,0,0,Angle, Stephen,0.0,0.0,0,0,10
+4250,Stephen C. Angle,Angle,Stephen C.,安靖如,安靖如,安靖如,0,0,Angle, Stephen C.,0.0,0.0,0,0,10
+4251,Stephen C. Angle,Angle,Stephen C.,安靖如,安靖如,安靖如,0,0,Angle,Stephen C.,0.0,0.0,0,0,12
+4254,Julia Andrews,Andrews,Julia,安雅兰,安雅兰,安雅蘭,0,0,Andrews, Julia,0.0,0.0,0,0,10
+4255,Julia F. Andrews,Andrews,Julia F.,安雅蘭,安雅兰,安雅蘭,0,0,Andrews, Julia F.,0.0,0.0,0,0,10
+4257,Attilio Andreini,Andreini,Attilio,艾帝,艾帝,艾帝,0,0,Andreini, Attilio,0.0,0.0,0,0,10
+4258,Attilio Andreini,Andreini,Attilio,艾帝,艾帝,艾帝,0,0,Andreini,Attilio,0.0,0.0,0,0,10
+4261,Tonio Andrane,Andrane,Tonio,欧阳泰,欧阳泰,歐陽泰,0,0,Andrane, Tonio,0.0,0.0,0,0,10
+4262,Tonio Andrade,Andrade,Tonio,歐陽泰,欧阳泰,歐陽泰,0,0,Andrade, Tonio,0.0,0.0,0,0,10
+4271,Roger T. Ames,Ames,Roger T.,安乐哲,安乐哲,安樂哲,0,0,Ames, Roger T.,0.0,0.0,0,0,20
+4272,Roger T. Ames,Ames,Roger T.,安乐哲,安乐哲,安樂哲,0,0,Ames,Roger T.,1947.0,0.0,0,0,12
+4284,Sarah Allan,Allan,Sarah,艾兰,艾兰,艾蘭,0,0,Allan, Sarah,0.0,0.0,0,0,20
+4285,Sarah Allan,Allan,Sarah,艾兰,艾兰,艾蘭,0,0,Allan,Sarah,1945.0,0.0,0,0,12
+4286,Guy S. Alitto,Alitto,Guy S.,艾恺,艾恺,艾愷,0,0,Alitto, Guy S.,0.0,0.0,0,0,10
+4287,Guy Salvatore Alitto,Alitto,Guy Salvatore,艾愷,艾恺,艾愷,0,0,Alitto, Guy Salvatore,0.0,0.0,0,0,10
+4297,Joseph Adler,Adler,Joseph,艾周思,艾周思,艾周思,0,0,Adler, Joseph,0.0,0.0,0,0,10
+4298,Joseph A. Adler,Adler,Joseph A.,艾周思,艾周思,艾周思,0,0,Adler, Joseph A.,0.0,0.0,0,0,10
+4304,Oded Abt,Abt,Oded,歐克德,欧克德,歐克德,0,0,Abt, Oded,0.0,0.0,0,0,10
