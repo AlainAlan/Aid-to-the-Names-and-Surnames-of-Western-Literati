@@ -13,7 +13,11 @@ csv文件用UTF-8编码，使用Excel打开需要采取`数据-获取和转换�
 
 ### Chinese Names of Western Scholars
 A directory compiled and maintained by Philip Clart 柯若樸 (University of Leipzig)
-[链接在这里](https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.htm)
+~~[链接在这里](https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.htm)~~
+按：这个链接一段时间内是2017年更新的，国内网络上流传的链接似乎是这个。<br>
+然而，柯若朴教授所保持更新的链接则是html结尾的：[链接](https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.html)
+所以，我的一些结果需要重做。（2021-3-10）<br>
+有空了我会慢慢考订的。
 
 data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后用Excel转存的。
 使用`PhilipClart-csv2csv.py`将csv文件输出到`PhilipClart-output.txt`。具体可以自己看代码。
@@ -55,7 +59,7 @@ Last updated: 16 November 2017
 - [ ] 去掉缺值补〇
 - [ ] 调整文件字体
 - [ ] 重排顺序
-- [ ] 去掉此前忘记strip而留下的空格
+- [x] 去掉此前忘记strip而留下的空格
 - [ ] 修改Readme的病句和不小心使用的英文标点
 
 ## 基本格式
