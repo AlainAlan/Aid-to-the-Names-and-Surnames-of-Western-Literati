@@ -20,10 +20,13 @@ A directory compiled and maintained by Philip Clart 柯若樸 (University of Lei
 有空了我会慢慢考订的。
 
 data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后用Excel转存的。
+
 使用`PhilipClart-csv2csv.py`将csv文件输出到`PhilipClart-output.txt`。具体可以自己看代码。
+
 很多不统一的地方是我人肉一个一个调的，尤其是全角半角字符的问题。
 
 其中，有的学者没有“姓氏”（系佛家子弟），为了保证体例统一，在其洋文姓一栏录为“Shi”，中文名录为“释·某某”，以区别于原来就有的“释”姓。
+
 当然，“印顺”大师带有“释”字的名字也较为通用。
 
 ### English/Chinese Comparison Table for Names of Chinese Studies Scholars
@@ -31,9 +34,12 @@ data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后�
 > Zhang, Haihui and Xue, Zhaohui and Jiang, Shuyong and Lugar, Gary Lance (2013) English/Chinese Comparison Table for Names of Chinese Studies Scholars [ 北美中国研究学者英中姓名对照 ]. In: A Scholarly Review of Chinese Studies in North America = 北美中国研究综述. Association for Asian Studies (AAS). ISBN 978-0-924304-72-9
 Last updated: 16 November 2017
 
-这里使用的是[该页面](http://d-scholarship.pitt.edu/17682/PDF)“As of October 12, 2020”的一版pdf。~~我已经把pdf文件偷过来放在了data文件夹下。然后使用福昕PDF编辑器转成docx，然后复制粘贴到txt。后缀为plain的删掉了开头的介绍。~~
+这里使用的是[该页面](http://d-scholarship.pitt.edu/17682/PDF)“As of October 12, 2020”的一版pdf。
+
+~~我已经把pdf文件偷过来放在了data文件夹下。然后使用福昕PDF编辑器转成docx，然后复制粘贴到txt。后缀为plain的删掉了开头的介绍。~~
 
 ~~其中`List*`几个文件就是辗转转换的原文件。然后主要的调整都是在`HaihuiZhang.txt`中做的。包括但不限于：~~
+
 1. 将“又作”、“又译作”、“又名”、“亦名”、“号某某”、“也作”等等统一（因此不细分）。
 2. 删除von、van导致的两见，只保留von在姓中的一种情况。
 3. 把部分空格改成tab
@@ -63,7 +69,6 @@ Last updated: 16 November 2017
 - [ ] 重排顺序
 - [x] 去掉此前忘记strip而留下的空格
 - [ ] 修改Readme的病句和不小心使用的英文标点
-- [ ] 
 
 ## 基本格式
 
@@ -107,6 +112,7 @@ ipynb需要使用Jupyter Notebook等软件.安装之后也可以用VSCode打开(
 **二者被良好地maintained,而且标准化达到了基本可以让我批处理的程度,让人感佩**<br>
 ~~在简单校对的过程中,我就已经体会到了查考一个陌生人的洋名-汉名关系是有多么的困难和枯燥(以及多么的让人恶心头晕眼花).<br>
 所以说,尽管我发现了一些"愚蠢"的错误(等我从疲惫中恢复过来之后再度确认之后将分别联系二位大佬),这也仅仅意味着:他们的工作量之大已经到了会出现低级错误的地步了.~~
+
 我今天（2021-03-09）给Philip Clart先生写了邮件，先生表示并不主张版权（爱了爱了爱了❤），并表示会在下次更新时更正几个typos。<br>
 大佬人真好；这里是大佬个人主页，有空多去踩踩：[Philip Clart](https://home.uni-leipzig.de/clartp/)
 
