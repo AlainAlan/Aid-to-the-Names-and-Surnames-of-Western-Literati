@@ -31,9 +31,9 @@ data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后�
 > Zhang, Haihui and Xue, Zhaohui and Jiang, Shuyong and Lugar, Gary Lance (2013) English/Chinese Comparison Table for Names of Chinese Studies Scholars [ 北美中国研究学者英中姓名对照 ]. In: A Scholarly Review of Chinese Studies in North America = 北美中国研究综述. Association for Asian Studies (AAS). ISBN 978-0-924304-72-9
 Last updated: 16 November 2017
 
-这里使用的是[该页面](http://d-scholarship.pitt.edu/17682/PDF)“As of October 12, 2020”的一版pdf。我已经把pdf文件偷过来放在了data文件夹下。然后使用福昕PDF编辑器转成docx，然后复制粘贴到txt。后缀为plain的删掉了开头的介绍。
+这里使用的是[该页面](http://d-scholarship.pitt.edu/17682/PDF)“As of October 12, 2020”的一版pdf。~~我已经把pdf文件偷过来放在了data文件夹下。然后使用福昕PDF编辑器转成docx，然后复制粘贴到txt。后缀为plain的删掉了开头的介绍。~~
 
-其中`List*`几个文件就是辗转转换的原文件。然后主要的调整都是在`HaihuiZhang.txt`中做的。包括但不限于：
+~~其中`List*`几个文件就是辗转转换的原文件。然后主要的调整都是在`HaihuiZhang.txt`中做的。包括但不限于：~~
 1. 将“又作”、“又译作”、“又名”、“亦名”、“号某某”、“也作”等等统一（因此不细分）。
 2. 删除von、van导致的两见，只保留von在姓中的一种情况。
 3. 把部分空格改成tab
@@ -55,12 +55,15 @@ Last updated: 16 November 2017
 ### 还需要润色
 
 - [ ] **把原數據換成2021年更新的，而不是2017年更新的**
+- [x] 删除部分文件，出于尊重版权的考虑（2021-03-31）
+- [ ] **进一步删除某些来源的资料，但给出：1. 校勘记 2. 批处理脚本**
 - [ ] 然後重新做一遍（因爲一些疏失沒有用最新的Philip Clart先生的資料）
 - [ ] 去掉缺值补〇
 - [ ] 调整文件字体
 - [ ] 重排顺序
 - [x] 去掉此前忘记strip而留下的空格
 - [ ] 修改Readme的病句和不小心使用的英文标点
+- [ ] 
 
 ## 基本格式
 
