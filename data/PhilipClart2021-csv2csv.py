@@ -13,12 +13,12 @@ def rm(s):
 
 namelist = []
 
-with open('C:\\Users\\repea\\Desktop\\GitHub待办\\aHelpFromWesternScholars\\PhilipClart2021version.txt.csv','r',encoding='utf8') as h:
+with open('Clart20210414.csv','r',encoding='utf8') as h:
 	lines = h.readlines()
 	for line in lines:
 		if len(line) <= 2:
 			continue
-		en_comma_zh = line.strip().split('\t')
+		en_comma_zh = line.strip().split(',')
 		# 
 		if len(en_comma_zh) == 2:
 			if '(' in en_comma_zh[0]:
@@ -69,6 +69,6 @@ with open('C:\\Users\\repea\\Desktop\\GitHub待办\\aHelpFromWesternScholars\\Ph
 			print(en_comma_zh)
 			continue
 
-with open('C:\\Users\\repea\\Desktop\\GitHub待办\\aHelpFromWesternScholars\\data\\PhilipClart2021-output.txt','w',encoding='utf-8') as o:
+with open('Clart20210414-output.txt','w',encoding='utf-8') as o:
 	for names in namelist:
 		o.write(names['洋名'] + ',' + names['洋姓'] + ',' + names['洋字'] + ',' + names['中名'] + ',' + names['汉名'] + ',' + names['漢名'] + ',' + names['洋名又'] + ',' + names['中名又'] + ',' + names['洋名无音符'].strip() + ',' + names['洋名又无音符'].strip() + '\n')
