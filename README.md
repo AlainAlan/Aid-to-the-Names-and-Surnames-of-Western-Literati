@@ -3,11 +3,9 @@
 
 按：名称戏仿《西儒耳目资》，参见[Nicolas Trigault - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Trigault#Publications)
 
-csv文件用UTF-8编码，使用Excel打开需要采取`数据-获取和转换数据-从文本/CSV`并选择Unicode（UTF-8），方能安全打开避免乱码。
-
-文件仍在建设中。<br>
-
 详情可参：[附录（二）：汉学家汉名表](https://mp.weixin.qq.com/s/K9qDpcOuWXKXCNDebQQP_Q)。
+
+
 
 ## 数据来源（预处理）
 
@@ -19,6 +17,8 @@ A directory compiled and maintained by Philip Clart 柯若樸 (University of Lei
 所以，我的一些结果需要重做。（2021-3-10）<br>
 有空了我会慢慢考订的。
 
+2021-04-14 更新爲“7 April 2021”版本。
+
 data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后用Excel转存的。
 
 使用`PhilipClart-csv2csv.py`将csv文件输出到`PhilipClart-output.txt`。具体可以自己看代码。
@@ -27,7 +27,7 @@ data文件夹中，名为`PhilipClart.csv`的文件是复制自该网页然后�
 
 其中，有的学者没有“姓氏”（系佛家子弟），为了保证体例统一，在其洋文姓一栏录为“Shi”，中文名录为“释·某某”，以区别于原来就有的“释”姓。
 
-当然，“印顺”大师带有“释”字的名字也较为通用。
+> 当然，“印顺”大师带有“释”字的名字也较为通用。
 
 ### English/Chinese Comparison Table for Names of Chinese Studies Scholars
 ### 北美中国研究学者英中姓名对照
@@ -62,59 +62,35 @@ Last updated: 16 November 2017
 
 - [ ] **把原數據換成2021年更新的，而不是2017年更新的**
 - [x] 删除部分文件，出于尊重版权的考虑（2021-03-31）
-- [ ] **进一步删除某些来源的资料，但给出：1. 校勘记 2. 批处理脚本**
-- [ ] 然後重新做一遍（因爲一些疏失沒有用最新的Philip Clart先生的資料）
-- [ ] 去掉缺值补〇
+- [x] 进一步删除某些来源的资料，但给出：1. 校勘记 2. 批处理脚本
+- [x] 然後重新做一遍（因爲一些疏失沒有用最新的Philip Clart先生的資料）
+- [ ] ~~去掉缺值补〇~~
 - [ ] 调整文件字体
 - [ ] 重排顺序
 - [x] 去掉此前忘记strip而留下的空格
-- [ ] 修改Readme的病句和不小心使用的英文标点
-
-## 基本格式
-
-### OMGsinologists（OMG1）
-
-1. 洋名：名前姓后的全名（带diacritics）
-2. 洋姓：洋姓（带von、van者亦在其内）
-3. 洋字：除了姓之外的剩余部分
-4. 中文名：保留原文件中的字符
-5. 汉名：中文名机器转换为简体字
-6. 漢名：中文名机器转换为繁体字
-7. 洋名又名：其他写法（例如名字部分简写为首字母与否，或者是否冠夫姓，或者译音或另起洋名等造成的洋名又名）
-8. 中文名又名：其他中文名，保留原字符，不转换繁简
-9. 洋名去调符：由于我个人不懂Unicode也不懂normalize，盗用[OpenTaal/diacritic-removal: Remove diacritics from characters](https://github.com/OpenTaal/diacritic-removal)的一段代码。其[LICENSE](https://github.com/OpenTaal/diacritic-removal/blob/master/LICENSE)。
-10. 洋名又名去调符：如果洋名又名本身无diacritic，此项手动删掉。
-11. 所见次数：此即我个人在手动编制过程中在不同地方看到该洋汉对应关系的次数，年久日深将可以作为该学者在笔者领域影响力的altmetrics(bushi
-12. 族裔：尚未标准化，也仅著录少数学者，有待将来再搞
-13. 备注：人物关系、著作、领域、传教士。尚未标准化，以后再说。
-
-### OMG7
-
-1. OMG7多出了加权计数,其实就是为了保留来源文件的一部分信息,但是在第二步去重的时候忘记考虑了,所以这一列请忽略.
-2. 异文:基本上是Philip Clart和Zhang Haihui两版文件的差异.二者对于名字缩写尤其是中间名的有无或缩写与否的处理有所差异,故而特地存异.
-
-这样,在搜索一位学者的时候,无论是用简体还是繁体,用常用写法中哪一个,都可以搜得到.
-
+- [x] 修改Readme的病句和不小心使用的英文标点
 
 ## 依赖
 
 如果有哪位闲的无聊，想看看代码的话，那我只能说依赖Python的OpenCC，记得装。
 ``` pip install opencc```
 
-ipynb需要使用Jupyter Notebook等软件.安装之后也可以用VSCode打开(需要插件).我用ipynb写的,然后用VSCode重新跑一遍确定没问题(废话,还不都是一个kernel).
-
-其中用到了pandas和numpy,都是临时抱佛脚百度搜代码,好剿袭不求甚解,为此感谢互联网的共享精神.
+其中用到了pandas和numpy，都是临时抱佛脚百度搜代码，好剿袭不求甚解，为此感谢互联网的共享精神。
 
 # 真-依赖
 
 **在此需要郑重地感谢柯若樸先生在网站上公开的电子表格**<br>
-**并感谢Zhang, Haihui and Xue, Zhaohui and Jiang, Shuyong and Lugar, Gary Lance (2013)**<br>
-**二者被良好地maintained,而且标准化达到了基本可以让我批处理的程度,让人感佩**<br>
-~~在简单校对的过程中,我就已经体会到了查考一个陌生人的洋名-汉名关系是有多么的困难和枯燥(以及多么的让人恶心头晕眼花).<br>
-所以说,尽管我发现了一些"愚蠢"的错误(等我从疲惫中恢复过来之后再度确认之后将分别联系二位大佬),这也仅仅意味着:他们的工作量之大已经到了会出现低级错误的地步了.~~
 
 我今天（2021-03-09）给Philip Clart先生写了邮件，先生表示并不主张版权（爱了爱了爱了❤），并表示会在下次更新时更正几个typos。<br>
 大佬人真好；这里是大佬个人主页，有空多去踩踩：[Philip Clart](https://home.uni-leipzig.de/clartp/)
+
+（2021-04-14）Clart先生前不久修正了幾個typos，今天有空重新理了一邊。所做的工作包括：
+- 從網站複製，粘貼到Excel
+- 從Excel另存爲csv
+- 在佛家子弟名字前妄加“釋”字（並加間隔號“·”以示區別）
+- 在兩個沒有逗號的地方添加了逗號隔開姓氏與名字
+- 簡單修改此前的py文件，重新輸出output
+- 此外，僅保留Haihui Zhang先生異於柯若樸先生的部分，其他部分已盡量刪除，容后細勘
 
 ## Chinese Names of Western Scholars & Western Names of Chinese Scholars
 
