@@ -3,6 +3,13 @@
 
 按：名称戏仿《西儒耳目资》，参见[Nicolas Trigault - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Trigault#Publications)
 
+一个可供浏览器检索的版本（科学上网required）：
+[西儒名姓资](https://alainalan.github.io/Aid-to-the-Names-and-Surnames-of-Western-Literati/)
+
+关于该网页的按语：
+1. 懒得学html和css，胡乱弄出一个页面，供且仅供在线查找（也便于更新维护），较于csv、xlsx有一定优势；
+2. 在主流桌面浏览器中，搜索`Goran`可匹配到`Göran`，而在excel中则未必然，这也是在线的优势之一，省去了我去掉diacritical的工作，也简化了页面；
+3. 以后再说。
 
 ## 数据来源（预处理）
 
