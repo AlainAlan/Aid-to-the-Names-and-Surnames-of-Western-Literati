@@ -56,7 +56,9 @@ Last updated: 16 November 2017
 
 - [ ] 保持更新，跟踪大佬更新进度
 - [ ] 留存备份，方便将来git对比
-- [ ] 静态网页
+- [x] 静态网页
+- [ ] 把网页整好看点，现在丑死了
+- [ ] css适配水果（参考[iOS Fonts](http://www.iosfonts.com/)）
 - [ ] gitee拷贝
 
 ## 依赖
