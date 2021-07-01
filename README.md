@@ -84,3 +84,58 @@ University of Leipzig
 [链接](https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.html)
 
 这里是大佬个人主页，有空多去踩踩：[Philip Clart](https://home.uni-leipzig.de/clartp/)
+
+## 又臭又长的更新日志
+
+### 2021-07-01
+
+数据来源已更新：
+- 柯若朴：2021-06-19更新
+- 张海惠：2021-05-05更新（已备份到data文件夹，可参）
+
+柯若朴20210619与上一版diff结果：
+```
+Choi, Chi Cheung	蔡志祥
+Cohen, Jerome Alan	孔傑榮 / 柯恩	删了一个空格
+Collie, David	柯大衛 / 高大衛 / 顧利
+Guan, Zengjian	關增建
+Hall, David L.	郝大為 / 郝大維	（增加第二个译名）
+Herrmann, Konrad	赫爾曼
+Hillier, Charles Batten	禧利 / 奚禮爾
+Hughes, E.R.	修中誠
+Ing, Michael David Kaulana	吳榮桂
+King, Chien-kün	經乾堃
+Ku, Hung Ming	辜鴻銘
+Lyall, Leonard A.	賴發洛
+Marshman, Joshua	馬士曼 / 馬殊曼
+Moran, Patrick Edwin	莫然
+Morrison, Robert	馬禮遜
+Schachter, Bony B.	羅逸	（删除）
+Seaman, Gary	沈雅禮 / 蓋西曼
+Shepherd, Eric	謝博德
+```
+
+由于从网页复制表格存在一些问题（也为了省事，不想重新按自己的需要校订一遍），我没有整体重做数据，而是直接把上面的diff粘贴在末尾（omg我发现我忘了修改和删除了，只是粘贴在最后，那么下次再改正吧）
+
+使用Word比较了张女士的修订前后的表格，发现除了一些细小的勘误之外，尚有：
+
+- Sena, David	孙大卫	改为	孙大维
+
+
+根据两位（在邮件中所表示）的意思，我们可以近似地认为这些资料采用CC 4.0许可，虽然张女士对credit的主张更明确一些。因此我也求了“差”，以示区别。
+
+对于学者而言，“经营”这种表格一般都不会是为了谋利，读过任何一本科学社会学导论类书籍都会知道默顿是怎么说的——虽然我不曾读过[默顿](https://book.douban.com/subject/1028800/)。所以如果有人翻到了我整理的这些数据，请在另行发布时注明数据来源：
+
+- 柯若朴：https://home.uni-leipzig.de/clartp/ChineseNamesWesternScholars.html
+- 张海惠：http://d-scholarship.pitt.edu/17682/
+
+至于我本人，就没脸皮掠美了。
+
+本次具体的工作流程可见代码如屎一般优雅的`OMG8toOMG9.ipynb`。
+
+1. 将Clart新版diff之后，把新加入的部分放到原来的txt最后。
+2. 转换HaihuiZhang新版pdf，统一“又作”，更正一些tab，使用全角括号，半角逗号。
+3. 使用对应的py输出output。
+4. 使用Excel把output合并为一个excel
+5. 读取excel到ipynb，输出所有“汉名”重复的行，人工挑选出一些比较蹊跷的重复行（予以保留，等待考证），作为weird_dup
+6. 去重后输出OMG9.xlsx
